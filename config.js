@@ -45,3 +45,4 @@ window.isWithinExamWindow = function isWithinExamWindow(nowMs = Date.now()) {
   return nowMs >= window.EXAM_START_MS && nowMs <= window.EXAM_END_MS;
 
 };
+
