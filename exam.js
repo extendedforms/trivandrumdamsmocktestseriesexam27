@@ -168,7 +168,7 @@ if(!state.marked  || typeof state.marked  !== "object") state.marked  = {};
 if (!Number.isFinite(state.current) || state.current < 0) state.current = 0;
 if (state.current >= totalQ) state.current = Math.max(0, totalQ - 1);
 
-const durationMs = (window.EXAM_DURATION_MIN || 60) * 60 * 1000;
+const durationMs = (window.EXAM_DURATION_MIN || 120) * 60 * 1000;
 
 function save(){ localStorage.setItem(KEY, JSON.stringify(state)); }
 function pad2(n){ return String(n).padStart(2,"0"); }
@@ -493,7 +493,7 @@ async function submitExam(isAuto=false, reason="SUBMIT"){
       timeTakenSec: r.timeTakenSec,
       startedAt: state.startedAt,
       endedAt: Date.now(),
-      durationMin: (window.EXAM_DURATION_MIN || 60),
+      durationMin: (window.EXAM_DURATION_MIN || 120),
       reason,
       isAuto: !!isAuto,
       violations: state.violations || 0,
@@ -549,4 +549,5 @@ async function submitExam(isAuto=false, reason="SUBMIT"){
   updateTimer();
   setInterval(updateTimer, 1000);
   render();
+
 })();
