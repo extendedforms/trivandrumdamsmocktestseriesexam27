@@ -2139,7 +2139,7 @@ window.questions = [
   },
   {
     id: 156,
-    image: "images/IMG_1856.jpeg",
+    image: "images/IMG_1905.jpeg",
     question:
       "A 32-year-old man undergoes neurological sensory testing after a hand injury. A receptor shown in the image is identified as a lamellated corpuscle that responds best to vibration and rapidly changing pressure. Which of the following best describes this receptor?",
     options: [
