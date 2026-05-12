@@ -6,2703 +6,2538 @@ window.questions = [
 
   {
     id: 1,
-    image: "images/IMG_3069.jpeg",
+    image: "",
     question:
-      "An elderly woman slips and falls on an outstretched hand. She presents with pain, swelling, and deformity around the wrist. The X-ray image shows an extra-articular fracture of the distal end of radius with dorsal displacement and dorsal angulation of the distal fragment, producing the classical dinner-fork / silver-fork deformity.\nWhich of the following is the most likely diagnosis?",
+      "A 6-month-old infant develops diarrhea, abdominal distension, and failure to thrive after being started on milk feeds. The pediatrician suspects deficiency of an enzyme required for digestion of a heterodisaccharide composed of glucose and galactose.\nWhich of the following is the correct disaccharide–enzyme pair involved in this condition?",
     options: [
-      "Smith fracture",
-      "Barton fracture",
-      "Chauffeur’s fracture",
-      "Colles fracture"
+      "Lactose — Lactase",
+      "Sucrose — Sucrase",
+      "Maltose — Maltase",
+      "Trehalose — Trehalase"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Colles fracture"
+    answerIndex: 0,
+    correctAnswerText: "Lactose — Lactase"
   },
-
   {
     id: 2,
-    image: "images/IMG_2867.jpeg",
+    image: "",
     question:
-      "An adult presents after being struck on the forearm while trying to protect the face from a blow. The X-ray image shows an isolated fracture of the shaft of the ulna.\nWhat is the most likely diagnosis?",
+      "A student is studying carbohydrate stereochemistry. Two sugars are shown to differ only in the configuration around the 2nd carbon atom, while all other chiral centers are identical. One of them is glucose, and the other sugar is its C-2 epimer.\nWhich of the following sugars is the C-2 epimer of glucose?",
     options: [
-      "Nightstick fracture",
-      "Monteggia fracture",
-      "Galeazzi fracture",
-      "Colles fracture"
+      "Mannose",
+      "Galactose",
+      "Fructose",
+      "Ribulose"
     ],
     answerIndex: 0,
-    correctAnswerText: "Nightstick fracture"
+    correctAnswerText: "Mannose"
   },
-
   {
     id: 3,
-    image: "images/IMG_2869.jpeg",
+    image: "",
     question:
-      "A trauma patient has the radiographic lesion shown. Which associated finding most strongly supports the diagnosis seen in this image?",
+      "A biochemistry student observes that a freshly prepared glucose solution initially shows a high optical rotation, but after a few hours the optical rotation gradually changes and reaches a constant equilibrium value. This phenomenon occurs due to interconversion between alpha and beta forms of glucose through the open-chain form.\nWhich of the following best describes this phenomenon?",
     options: [
-      "Distal radioulnar joint instability",
-      "Isolated distal radius metaphyseal fracture",
-      "Radial head dislocation at the elbow",
-      "Isolated midshaft ulnar fracture without joint injury"
+      "Racemization",
+      "Mutarotation",
+      "Epimerization",
+      "Inversion of sugar"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Radial head dislocation at the elbow"
+    answerIndex: 1,
+    correctAnswerText: "Mutarotation"
   },
-
   {
     id: 4,
-    image: "images/IMG_2870.jpeg",
+    image: "",
     question:
-      "An adolescent with the radiographic lesion shown is being evaluated for chronic swelling of the hand. Which of the following is the best next principle of management?",
+      "A patient is advised to take a non-digestible carbohydrate supplement that promotes growth of beneficial gut bacteria. The compound is a fructosan, contains fructose units, and is also used clinically for glomerular filtration rate calculation because it is freely filtered and not reabsorbed.\nWhich of the following carbohydrates is being described?",
     options: [
-      "Observation only because the lesion is self-limiting",
-      "Immediate wide resection as for malignant bone tumor",
-      "NSAIDs alone because most lesions resolve spontaneously",
-      "Biopsy confirmation followed by anti-tubercular therapy (ATT)"
+      "Starch",
+      "Inulin",
+      "Dextran",
+      "Chitin"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Biopsy confirmation followed by anti-tubercular therapy (ATT)"
+    answerIndex: 1,
+    correctAnswerText: "Inulin"
   },
-
   {
     id: 5,
-    image: "images/IMG_2871.jpeg",
+    image: "",
     question:
-      "A patient presents with swelling of a finger bone. The radiograph shows a well-defined lytic lesion involving almost the entire phalanx, with cortical thinning and specks of calcification. Which of the following is the most likely diagnosis?",
+      "A 2-year-old boy presents with coarse facial features, hepatosplenomegaly, skeletal abnormalities, developmental delay, and corneal clouding. Urine examination shows increased excretion of dermatan sulfate and heparan sulfate. Enzyme assay reveals deficiency of a lysosomal enzyme involved in degradation of glycosaminoglycans.\nWhich of the following enzyme deficiencies is most likely responsible for this condition?",
     options: [
-      "Enchondroma",
-      "Osteoid osteoma",
-      "Giant cell tumor",
-      "Osteosarcoma"
+      "Iduronate sulfatase",
+      "Galactosamine-6-sulfatase",
+      "Alpha-L-iduronidase",
+      "Beta-glucuronidase"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Enchondroma"
+    answerIndex: 2,
+    correctAnswerText: "Alpha-L-iduronidase"
   },
-
   {
     id: 6,
-    image: "images/IMG_2872.jpeg",
+    image: "",
     question:
-      "A 14-year-old girl presents with gradually progressive pain and swelling around the knee. The radiograph shows an expansile, aggressive, irregular lytic lesion involving the metaphysis of proximal tibia. Histology reveals multiple blood-filled sinusoidal spaces separated by septa. What is the most likely diagnosis?",
+      "A 52-year-old man with type 2 diabetes mellitus is started on dapagliflozin. After treatment, his blood glucose improves, but urine glucose excretion increases. The drug acts by blocking a sodium-dependent glucose transporter responsible for renal reabsorption of glucose.\nWhich of the following transporters is inhibited by this drug?",
     options: [
-      "Osteosarcoma",
-      "Aneurysmal bone cyst",
-      "Giant cell tumor",
-      "Ewing sarcoma"
+      "GLUT-4",
+      "GLUT-2",
+      "SGLT-2",
+      "GLUT-5"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Aneurysmal bone cyst"
+    answerIndex: 2,
+    correctAnswerText: "SGLT-2"
   },
-
   {
     id: 7,
-    image: "images/IMG_2873.jpeg",
+    image: "",
     question:
-      "A 28-year-old woman presents with gradually progressive pain and swelling around the knee. The radiograph shows a well-defined geographical lytic lesion, eccentric in location, involving the distal femur, with a classical soap-bubble appearance and egg-shell crackling on examination. What is the most likely diagnosis?",
+      "A 24-year-old sprinter develops severe muscle fatigue during intense exercise. In his exercising skeletal muscle, oxygen availability becomes limited and pyruvate is converted to lactate by lactate dehydrogenase. This helps regenerate NAD⁺ so that glycolysis can continue.\nWhat is the net ATP gain per glucose molecule in anaerobic glycolysis from glucose to lactate?",
     options: [
-      "Aneurysmal bone cyst",
-      "Osteosarcoma",
-      "Giant cell tumor (osteoclastoma)",
-      "Ewing sarcoma"
+      "7 ATP",
+      "5 ATP",
+      "0 ATP",
+      "2 ATP"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Giant cell tumor (osteoclastoma)"
+    answerIndex: 3,
+    correctAnswerText: "2 ATP"
   },
-
   {
     id: 8,
-    image: "images/IMG_2874.jpeg",
+    image: "",
     question:
-      "A 16-year-old boy presents with progressive pain and swelling around the knee. The radiograph shown demonstrates an aggressive metaphyseal lesion with a classical sun-ray / sunburst appearance due to tumor bone extending along Sharpey fibers. What is the most likely diagnosis?",
+      "A patient with chronic hypoxia shows increased formation of 2,3-bisphosphoglycerate in red blood cells. This molecule decreases hemoglobin affinity for oxygen and helps oxygen unloading in tissues. During this shunt, one ATP-generating step of glycolysis is bypassed.\nWhat is the net ATP gain in RBC when glycolysis proceeds through the Rapoport–Luebering cycle?",
     options: [
-      "Ewing sarcoma",
-      "Giant cell tumor",
-      "Aneurysmal bone cyst",
-      "Osteosarcoma"
+      "7 ATP",
+      "5 ATP",
+      "2 ATP",
+      "0 ATP"
     ],
     answerIndex: 3,
-    correctAnswerText: "Osteosarcoma"
+    correctAnswerText: "0 ATP"
   },
-
   {
     id: 9,
-    image: "images/IMG_2875.jpeg",
+    image: "",
     question:
-      "A 17-year-old boy presents with persistent pain around the hip, which is worse at night and is dramatically relieved after taking aspirin. The radiograph of the femoral neck shows a small central radiolucent nidus surrounded by thick reactive sclerosis. What is the most likely diagnosis?",
+      "A laboratory technician receives multiple blood samples from the emergency department. One sample is collected in a gray-top tube for estimation of blood glucose in a suspected diabetic emergency. The additive in this tube prevents glycolysis in the collected blood sample and preserves glucose concentration.\nWhich of the following is the correct additive present in the gray-top tube?",
     options: [
-      "Osteoid osteoma",
-      "Osteoblastoma",
-      "Brodie abscess",
-      "Osteosarcoma"
+      "Sodium fluoride + Potassium oxalate",
+      "Sodium citrate",
+      "EDTA K₂",
+      "Lithium heparin"
     ],
     answerIndex: 0,
-    correctAnswerText: "Osteoid osteoma"
+    correctAnswerText: "Sodium fluoride + Potassium oxalate"
   },
-
   {
     id: 10,
-    image: "images/IMG_2876.jpeg",
+    image: "",
     question:
-      "A newborn is brought for evaluation of a congenital foot deformity. The image shows the foot in plantar flexion, inversion, and adduction, giving the appearance of clubfoot. Which of the following is the most likely diagnosis?",
+      "A chronic alcoholic patient is brought to the emergency department with global confusion, ophthalmoplegia, and ataxia. The physician suspects Wernicke-Korsakoff syndrome and administers thiamine before giving intravenous dextrose. Thiamine is required as a coenzyme for oxidative decarboxylation of pyruvate to acetyl-CoA.\nWhich of the following is the correct coenzyme required for pyruvate dehydrogenase complex?",
     options: [
-      "Calcaneovalgus foot",
-      "Congenital talipes equinovarus (clubfoot)",
-      "Pes planovalgus",
-      "Congenital vertical talus"
+      "Thiamine pyrophosphate",
+      "Biotin",
+      "Pyridoxal phosphate",
+      "Tetrahydrofolate"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Congenital talipes equinovarus (clubfoot)"
+    answerIndex: 0,
+    correctAnswerText: "Thiamine pyrophosphate"
   },
-
   {
     id: 11,
-    image: "images/IMG_2877.jpeg",
+    image: "",
     question:
-      "A laborer develops sudden severe pain at the base of the neck after forceful pulling activity. The lateral cervical spine image shows an avulsion fracture of the spinous process of a lower cervical vertebra, classically seen in the lower cervical/upper thoracic region. What is the most likely diagnosis?",
+      "A 36-year-old fasting patient maintains blood glucose levels by synthesizing glucose from non-carbohydrate precursors. In hepatocytes, pyruvate is first converted to oxaloacetate in mitochondria, and then oxaloacetate is converted to phosphoenolpyruvate during gluconeogenesis.\nWhich of the following is the key enzyme that converts oxaloacetate to phosphoenolpyruvate?",
     options: [
-      "Hangman fracture",
-      "Jefferson fracture",
-      "Clay shoveler fracture",
-      "Odontoid fracture"
+      "Pyruvate carboxylase",
+      "Phosphoenolpyruvate carboxykinase",
+      "Fructose-1,6-bisphosphatase",
+      "Glucose-6-phosphatase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Clay shoveler fracture"
+    answerIndex: 1,
+    correctAnswerText: "Phosphoenolpyruvate carboxykinase"
   },
-
   {
     id: 12,
-    image: "images/IMG_2878.jpeg",
+    image: "",
     question:
-      "The instrument shown in the image is most appropriately used for which of the following purposes?",
+      "A patient with severe thiamine deficiency has impaired oxidation of acetyl-CoA. The physician explains that acetyl-CoA normally enters a mitochondrial pathway that completely oxidizes carbon skeletons of carbohydrates, fatty acids, ketone bodies, and amino acids to carbon dioxide and water under aerobic conditions.\nWhich of the following statements regarding the TCA cycle is correct?",
     options: [
-      "Drilling a track into cortical bone",
-      "Cutting cancellous bone in osteotomy",
-      "Curetting out granulation tissue from bone cavity",
-      "Elevating periosteum from the bone surface during exposure"
+      "It occurs mainly in red blood cells",
+      "It is an amphibolic pathway occurring in the mitochondrial matrix",
+      "It is active in anaerobic conditions",
+      "It converts glucose directly into lactate"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Elevating periosteum from the bone surface during exposure"
+    answerIndex: 1,
+    correctAnswerText: "It is an amphibolic pathway occurring in the mitochondrial matrix"
   },
-
   {
     id: 13,
-    image: "images/IMG_2880.jpeg",
+    image: "",
     question:
-      "A trauma patient with severe pain and deformity of the thigh is brought to the emergency room. The device shown in the image has an oval ring proximally with inner and outer bars, and is classically used in fracture shaft of femur. Which of the following is the correct identification of this instrument?",
+      "A patient with accidental exposure to a toxic compound develops inhibition of the TCA cycle. The toxic compound forms fluorocitrate, which blocks conversion of citrate to isocitrate by inhibiting an iron-containing enzyme of the TCA cycle.\nWhich of the following enzymes is inhibited in this condition?",
     options: [
-      "Bohler Braun splint",
-      "Thomas splint",
-      "Cramer wire splint",
-      "Denis Browne splint"
+      "Citrate synthase",
+      "Isocitrate dehydrogenase",
+      "Aconitase",
+      "Succinate dehydrogenase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Thomas splint"
+    answerIndex: 2,
+    correctAnswerText: "Aconitase"
   },
-
   {
     id: 14,
-    image: "images/IMG_2881.jpeg",
+    image: "",
     question:
-      "A middle-aged patient presents with diffuse bone pain, proximal muscle weakness, and difficulty walking. The lateral spine image shows biconcave vertebral bodies producing a classical fish mouth vertebra / codfish vertebra appearance. Which of the following is the most likely diagnosis associated with this radiological finding?",
+      "A 10-year-old child is being evaluated for disorders of glycogen metabolism. The examiner asks about the key difference between glycogen storage in liver and skeletal muscle. Liver glycogen helps maintain blood glucose during fasting, whereas muscle glycogen is mainly used for local energy during exercise.\nWhich of the following statements regarding glycogen is correct?",
     options: [
-      "Osteopetrosis",
-      "Ankylosing spondylitis",
-      "Osteomalacia",
-      "Spondylolisthesis"
+      "Glycogen is a polymer of fructose units",
+      "Glycogen has only alpha-1,6 linkages",
+      "Liver glycogen is depleted after 12–14 hours of fasting",
+      "Muscle glycogen is significantly affected by prolonged fasting"
     ],
     answerIndex: 2,
-    correctAnswerText: "Osteomalacia"
+    correctAnswerText: "Liver glycogen is depleted after 12–14 hours of fasting"
   },
-
   {
     id: 15,
-    image: "images/IMG_2883.jpeg",
+    image: "",
     question:
-      "A patient with chronic bone pain, proximal muscle weakness, and biochemical evidence of increased bone turnover undergoes spine imaging. The vertebral body in the image shows dense sclerosis along all four end plates, giving a classical “picture frame vertebra” appearance. Which of the following is the most likely diagnosis?",
+      "A child with suspected glycogen metabolism disorder is evaluated biochemically. The examiner explains that during glycogen synthesis, glucose residues are added mainly through α-1,4 glycosidic bonds, while branch points are created by transferring a small chain of glucose residues to form α-1,6 linkages.\nWhich of the following enzymes is responsible for formation of α-1,6 branch points in glycogen?",
     options: [
-      "Osteoporosis",
-      "Osteomalacia",
-      "Ankylosing spondylitis",
-      "Paget disease of bone"
+      "Glycogen phosphorylase",
+      "Glycogen synthase",
+      "Glucose-6-phosphatase",
+      "Branching enzyme"
     ],
     answerIndex: 3,
-    correctAnswerText: "Paget disease of bone"
+    correctAnswerText: "Branching enzyme"
   },
-
   {
     id: 16,
-    image: "images/IMG_2884.jpeg",
+    image: "",
     question:
-      "An elderly patient presents with gradually progressive increase in skull size, dull headache, and a feeling that old headwear has become tight. Skull radiograph shows a well-circumscribed patch of osteoporosis in the calvarium, representing the osteolytic phase of a metabolic bone disorder. What is the most likely diagnosis?",
+      "A child presents with severe fasting hypoglycemia, lactic acidosis, ketosis, hyperlipidemia, and hyperuricemia. Liver biopsy shows excess glycogen accumulation. The deficient enzyme normally converts glucose-6-phosphate to free glucose in the liver endoplasmic reticulum.\nWhich of the following glycogen storage diseases is most likely present?",
     options: [
-      "Osteoporosis circumscripta of Paget disease",
-      "Osteopetrosis",
-      "Multiple myeloma",
-      "Fibrous dysplasia"
+      "Pompe disease",
+      "Cori disease",
+      "McArdle disease",
+      "Von Gierke disease"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Von Gierke disease"
+  },
+  {
+    id: 17,
+    image: "",
+    question:
+      "A 6-year-old boy develops sudden pallor, jaundice, and dark urine after taking an oxidant drug. Peripheral smear shows features of hemolysis. The physician explains that red blood cells are highly dependent on a cytosolic pathway that produces NADPH, which keeps glutathione in reduced form and protects RBC membrane from oxidative damage.\nWhich of the following pathways is most important in preventing hemolysis in this child?",
+    options: [
+      "Pentose phosphate pathway",
+      "Glycolysis",
+      "Uronic acid pathway",
+      "Gluconeogenesis"
     ],
     answerIndex: 0,
-    correctAnswerText: "Osteoporosis circumscripta of Paget disease"
+    correctAnswerText: "Pentose phosphate pathway"
   },
-
-  {
-    id: 16,
-    image: "images/IMG_2879.jpeg",
-    question:
-    "The orthopedic device shown in the image is most appropriately used for which of the following purposes?",
-  options: [
-    "Immobilization with traction for shaft femur fracture",
-    "Correction of clubfoot deformity in infants",
-    "Stabilization of cervical spine injury",
-    "External fixation of open tibial fracture"
-  ],
-  answerIndex: 0,
-  correctAnswerText: "Immobilization with traction for shaft femur fracture"
-},
-
   {
     id: 18,
-    image: "images/IMG_3104.jpeg",
+    image: "",
     question:
-      "The image summarizes traction-type osteochondritis with examples involving the tibial tuberosity and calcaneal tuberosity. Which of the following statements is most appropriate?",
+      "A neonate develops unconjugated hyperbilirubinemia. The physician explains that bilirubin becomes water soluble after conjugation in the liver by an enzyme using UDP-glucuronic acid. This glucuronidation reaction is also important for detoxification of many drugs and steroid hormones.\nWhich of the following is the most important significance of the uronic acid pathway?",
     options: [
-      "Osgood-Schlatter disease is a pressure/crushing osteochondritis of femoral condyle",
-      "Sever disease occurs due to compression at the patella",
-      "Osgood-Schlatter and Sever disease are traction osteochondritides caused by repeated tendon pull at apophyses",
-      "Standard treatment is immediate surgical excision in all cases"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Osgood-Schlatter and Sever disease are traction osteochondritides caused by repeated tendon pull at apophyses"
-  },
-
-  {
-    id: 19,
-    image: "images/IMG_2889.jpeg",
-    question:
-      "A 5-year-old child presents with pain over the medial side of the foot, limp, and difficulty in walking. The radiograph shows an abnormal flattened/sclerotic navicular as shown in the image. Which of the following is the most likely diagnosis?",
-    options: [
-      "Freiberg disease",
-      "Sever disease",
-      "Osgood-Schlatter disease",
-      "Köhler disease"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Köhler disease"
-  },
-
-  {
-    id: 20,
-    image: "images/IMG_2890.jpeg",
-    question:
-      "A young adult presents with chronic dorsal wrist pain, reduced grip strength, and stiffness. The wrist image shows involvement of the lunate bone with changes suggestive of avascular necrosis. Which of the following is the most likely diagnosis?",
-    options: [
-      "Kienböck disease",
-      "Köhler disease",
-      "Preiser disease",
-      "Madelung deformity"
+      "Formation of UDP-glucuronic acid for conjugation reactions",
+      "Formation of acetyl-CoA for TCA cycle",
+      "Production of ATP by substrate-level phosphorylation",
+      "Formation of 2,3-bisphosphoglycerate in RBCs"
     ],
     answerIndex: 0,
-    correctAnswerText: "Kienböck disease"
+    correctAnswerText: "Formation of UDP-glucuronic acid for conjugation reactions"
   },
-
   {
-    id: 21,
-    image: "images/IMG_2891.jpeg",
+    id: 19,
+    image: "",
     question:
-      "An adult presents after fall on an outstretched hand with snuff box tenderness. The X-ray shown suggests a fracture at the waist of scaphoid. Which of the following is the most appropriate initial treatment?",
+      "A 7-month-old infant develops vomiting, jaundice, hypoglycemia, hepatomegaly, and acute liver dysfunction after fruit juice is introduced during weaning. The symptoms improve after removing fructose and sucrose from the diet. The disorder is due to accumulation of fructose-1-phosphate in liver and kidney.\nWhich of the following enzyme deficiencies is responsible for this condition?",
     options: [
-      "Below-elbow slab without thumb immobilization",
-      "Glass-holding cast",
-      "Immediate shoulder spica cast",
-      "Bohler Braun splint"
+      "Fructokinase",
+      "Aldolase B",
+      "Aldolase A",
+      "Sorbitol dehydrogenase"
     ],
     answerIndex: 1,
-    correctAnswerText: "Glass-holding cast"
+    correctAnswerText: "Aldolase B"
   },
-
   {
-    id: 22,
-    image: "images/IMG_2892.jpeg",
+    id: 20,
+    image: "",
     question:
-      "A young man presents with wrist pain after trauma. The radiograph shows an intra-articular fracture of the distal end of radius involving the radial styloid, with the radio-scaphoid relationship maintained. Which of the following is the most likely diagnosis?",
+      "A nutrition researcher explains that humans cannot synthesize certain polyunsaturated fatty acids because humans cannot introduce double bonds beyond carbon-9. One of these fatty acids is the most essential fatty acid, is an omega-6 fatty acid, and is a precursor for arachidonic acid and eicosanoid synthesis.\nWhich of the following fatty acids best fits this description?",
     options: [
-      "Colles fracture",
-      "Smith fracture",
-      "Chauffeur’s fracture",
-      "Barton fracture"
+      "Oleic acid",
+      "Linoleic acid",
+      "Stearic acid",
+      "Palmitic acid"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Linoleic acid"
+  },
+  {
+    id: 21,
+    image: "",
+    question:
+      "A patient with Barth syndrome presents with cardiomyopathy, skeletal myopathy, and growth delay. Biochemical analysis shows abnormal remodeling of a major phospholipid present in the inner mitochondrial membrane. The defective gene is TAZ, which encodes tafazzin.\nWhich of the following phospholipids is most characteristically involved?",
+    options: [
+      "Phosphatidylcholine",
+      "Phosphatidylserine",
+      "Cardiolipin",
+      "Phosphatidylinositol"
     ],
     answerIndex: 2,
-    correctAnswerText: "Chauffeur’s fracture"
+    correctAnswerText: "Cardiolipin"
   },
-
+  {
+    id: 22,
+    image: "",
+    question:
+      "A 1-year-old child presents with progressive neurodegeneration, exaggerated startle response, blindness, and a cherry-red spot on the macula. There is no hepatosplenomegaly. Enzyme assay shows deficiency of an enzyme required for degradation of GM₂ ganglioside.\nWhich of the following enzyme deficiencies is most likely responsible?",
+    options: [
+      "Sphingomyelinase",
+      "Beta-glucosidase",
+      "Hexosaminidase A",
+      "Alpha-galactosidase A"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Hexosaminidase A"
+  },
   {
     id: 23,
-    image: "images/IMG_2893.jpeg",
+    image: "",
     question:
-      "A young adult presents with wrist pain, swelling, and deformity after trauma. The radiograph shown demonstrates an intra-articular fracture of the distal end of radius associated with radiocarpal / radioscaphoid subluxation-dislocation. Which of the following is the most likely diagnosis?",
+      "A 32-year-old well-fed patient with high carbohydrate intake shows increased hepatic lipogenesis. In the cytosol, acetyl-CoA is converted to malonyl-CoA by a rate-limiting enzyme requiring ATP, biotin, CO₂, Mn²⁺, and HCO₃⁻. This step is essential for de novo fatty acid synthesis.\nWhich of the following enzymes catalyzes this rate-limiting step?",
     options: [
-      "Colles fracture",
-      "Smith fracture",
-      "Chauffeur’s fracture",
-      "Barton fracture"
+      "Fatty acid synthase",
+      "Citrate lyase",
+      "Malic enzyme",
+      "Acetyl-CoA carboxylase"
     ],
     answerIndex: 3,
-    correctAnswerText: "Barton fracture"
+    correctAnswerText: "Acetyl-CoA carboxylase"
   },
-
   {
     id: 24,
     image: "",
     question:
-      "A child with congenital radial-sided hand deformity is being screened for associated anomalies. Which of the following syndrome-association pairs is correctly matched?",
+      "A newborn presents with hypoketotic hypoglycemia during fasting. Biochemical evaluation shows defective transport of long-chain fatty acids into mitochondria. The physician explains that long-chain fatty acids require a shuttle system derived from lysine and methionine, mainly synthesized in liver and kidney, to cross the inner mitochondrial membrane for β-oxidation.\nWhich of the following molecules is required for transport of long-chain fatty acids into mitochondria?",
     options: [
-      "Holt-Oram syndrome — ASD + Fanconi anaemia + club hand",
-      "TAR syndrome — anal atresia + tracheoesophageal fistula + renal agenesis",
-      "VACTERS — thrombocytopenia + absent radius",
-      "Radial club hand — usually associated with normal thumb and present scaphoid"
+      "Citrate",
+      "Malonyl-CoA",
+      "Biotin",
+      "Carnitine"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Holt-Oram syndrome — ASD + Fanconi anaemia + club hand"
+    answerIndex: 3,
+    correctAnswerText: "Carnitine"
   },
-
   {
     id: 25,
     image: "",
     question:
-      "A bone biopsy shows mature cells lying within lacunae, representing the most abundant bone cells in number. These cells are best identified as:",
+      "A student is calculating ATP yield from complete β-oxidation of palmitic acid. Each cycle of β-oxidation produces 1 FADH₂ and 1 NADH, and the acetyl-CoA produced enters the TCA cycle. Palmitic acid has 16 carbon atoms.\nWhat is the net ATP yield from complete oxidation of palmitic acid?",
     options: [
-      "Osteoblasts",
-      "Osteocytes",
-      "Osteoclasts",
-      "Chondroblasts"
+      "106 ATP",
+      "108 ATP",
+      "120 ATP",
+      "129 ATP"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Osteocytes"
+    answerIndex: 0,
+    correctAnswerText: "106 ATP"
   },
-
   {
     id: 26,
     image: "",
     question:
-      "A 32-year-old tennis player complains of shoulder pain and inability to start arm abduction after a fall. Clinical suspicion is rotator cuff injury. Which of the following is the most likely injured tendon?",
+      "A child presents with recurrent episodes of hypoketotic hypoglycemia, vomiting, and lethargy during fasting. Laboratory evaluation shows impaired β-oxidation of medium-chain fatty acids and increased dicarboxylic acids in urine due to ω-oxidation. Another patient has methylmalonic aciduria with neurological involvement due to impaired conversion of methylmalonyl-CoA to succinyl-CoA.\nWhich of the following statements is correct regarding fatty acid oxidation disorders?",
     options: [
-      "Infraspinatus",
-      "Supraspinatus",
-      "Subscapularis",
-      "Teres minor"
+      "MCAD deficiency causes hypoketotic hypoglycemia and dicarboxylic aciduria",
+      "Carnitine deficiency mainly causes hyperketotic hypoglycemia without muscle symptoms",
+      "Odd-chain fatty acids cannot contribute to glucose formation",
+      "Propionyl-CoA carboxylase deficiency is treated by avoiding biotin completely"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Supraspinatus"
+    answerIndex: 0,
+    correctAnswerText: "MCAD deficiency causes hypoketotic hypoglycemia and dicarboxylic aciduria"
   },
-
   {
     id: 27,
     image: "",
     question:
-      "A man presents with an open fracture of the tibia after a road traffic accident. There is a wound larger than 1 cm with moderate soft tissue damage and a comminuted fracture, but no extensive soft tissue loss or vascular injury. According to Gustilo-Anderson classification, this injury is best classified as:",
+      "A 6-year-old child presents with progressive neurological deterioration, hepatomegaly, renal dysfunction, and accumulation of very long-chain fatty acids. The physician explains that oxidation of very long-chain fatty acids normally occurs in peroxisomes, and a defect in this organelle can cause a cerebro-hepato-renal syndrome.\nWhich of the following disorders is classically associated with defective peroxisomal oxidation of very long-chain fatty acids?",
     options: [
-      "Type I",
-      "Type IIIA",
-      "Type II",
-      "Type IIIC"
+      "Refsum disease",
+      "Zellweger syndrome",
+      "MCAD deficiency",
+      "Carnitine deficiency"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Type II"
+    answerIndex: 1,
+    correctAnswerText: "Zellweger syndrome"
   },
-
   {
     id: 28,
     image: "",
     question:
-      "A 67-year-old postmenopausal woman with osteoporosis is started on a monoclonal antibody that acts by inhibiting RANK-L and thereby decreases osteoclastic bone resorption. Which of the following drugs has this mechanism of action?",
+      "A 45-year-old fasting patient has increased hepatic production of ketone bodies. These ketone bodies are released into blood and used by extrahepatic tissues such as heart and skeletal muscle. However, the liver cannot utilize the ketone bodies it produces because it lacks a key enzyme required for ketolysis.\nWhich of the following enzymes is absent in the liver, preventing hepatic utilization of ketone bodies?",
     options: [
-      "Bisphosphonate",
-      "Teriparatide",
-      "Strontium ranelate",
-      "Denosumab"
+      "HMG-CoA synthase",
+      "Thiophorase / CoA transferase",
+      "HMG-CoA lyase",
+      "Beta-hydroxybutyrate dehydrogenase"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Denosumab"
+    answerIndex: 1,
+    correctAnswerText: "Thiophorase / CoA transferase"
   },
-
   {
     id: 29,
     image: "",
     question:
-      "A 12-year-old obese boy presents with hip pain and limp. X-ray suggests slipped capital femoral epiphysis. Which type of physeal injury is classically represented by this lesion?",
+      "A 30-year-old man is on prolonged fasting for several days. Initially, his brain mainly depends on glucose, but with continued starvation, ketone bodies rise and begin to supply energy to the brain. This helps reduce breakdown of body proteins for gluconeogenesis.\nWhich of the following best explains this metabolic adaptation during prolonged starvation?",
     options: [
-      "Salter-Harris Type I",
-      "Salter-Harris Type II",
-      "Salter-Harris Type III",
-      "Salter-Harris Type IV"
+      "RBC starts using ketone bodies as major fuel",
+      "Liver starts utilizing ketone bodies for its own energy",
+      "Brain begins using ketone bodies, causing protein-sparing effect",
+      "Heart stops using fatty acids and depends only on glucose"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Salter-Harris Type I"
+    answerIndex: 2,
+    correctAnswerText: "Brain begins using ketone bodies, causing protein-sparing effect"
   },
-
   {
     id: 30,
     image: "",
     question:
-      "A patient with a metastatic lytic lesion around the hip has severe pain. According to Mirels score, which of the following factors contributes the highest risk score for impending pathological fracture?",
+      "A 55-year-old man with hypercholesterolemia is started on a drug that inhibits the rate-limiting step of cholesterol biosynthesis. This drug decreases conversion of HMG-CoA to mevalonate in the cytosol, thereby reducing hepatic cholesterol synthesis.\nWhich of the following enzymes is inhibited by this drug?",
     options: [
-      "Upper limb site with mild pain",
-      "Peritrochanteric/around hip lesion with lytic nature and severe pain",
-      "Lower limb site with blastic lesion and mild pain",
-      "Small lesion involving less than one-third of bone diameter"
+      "HMG-CoA synthase",
+      "Acetyl-CoA carboxylase",
+      "HMG-CoA reductase",
+      "Thiophorase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Peritrochanteric/around hip lesion with lytic nature and severe pain"
+    answerIndex: 2,
+    correctAnswerText: "HMG-CoA reductase"
   },
-
   {
     id: 31,
     image: "",
     question:
-      "A 35-year-old man presents with a painless swelling of a finger. X-ray shows a well-defined lytic lesion involving almost the entire phalanx with cortical thinning and specks of calcification. Which of the following is the most likely diagnosis?",
+      "A 48-year-old patient with fat malabsorption is found to have defective bile acid availability. The physician explains that cholesterol is converted into bile acids in the liver, and the classic pathway begins with hydroxylation at the 7-alpha position. These bile acids are then conjugated with glycine or taurine and help in digestion of dietary lipids.\nWhich of the following is the rate-limiting enzyme of bile acid synthesis from cholesterol?",
     options: [
-      "Osteochondroma",
-      "Spina ventosa",
-      "Enchondroma",
-      "Osteosarcoma"
+      "HMG-CoA reductase",
+      "Acetyl-CoA carboxylase",
+      "Lecithin cholesterol acyltransferase",
+      "7-alpha hydroxylase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Enchondroma"
+    answerIndex: 3,
+    correctAnswerText: "7-alpha hydroxylase"
   },
-
   {
     id: 32,
     image: "",
     question:
-      "A 28-year-old woman presents with pain around the knee. X-ray shows a well-defined eccentric expansile lytic lesion in the distal femur, extending up to the articular margin with cortical thinning and “soap bubble” appearance. Which of the following is the most likely diagnosis?",
+      "A patient’s fasting lipid profile is being interpreted. The examiner explains that lipoproteins differ in lipid and protein content. One lipoprotein is synthesized in the intestine, has the highest lipid content, lowest protein content, largest diameter, and remains near the origin during electrophoresis.\nWhich of the following lipoproteins best fits this description?",
     options: [
-      "Osteosarcoma",
-      "Ewing sarcoma",
-      "Enchondroma",
-      "Giant cell tumor (osteoclastoma)"
+      "HDL",
+      "LDL",
+      "VLDL",
+      "Chylomicron"
     ],
     answerIndex: 3,
-    correctAnswerText: "Giant cell tumor (osteoclastoma)"
+    correctAnswerText: "Chylomicron"
   },
-
   {
     id: 33,
     image: "",
     question:
-      "A teenager has an aggressive metaphyseal bone tumor around the knee. X-ray shows a spiculated periosteal reaction radiating outward like rays of sun, along with elevation of periosteum at the tumor margin. Which of the following radiological terms best describes these findings?",
+      "A patient with abnormal lipid transport is being evaluated. The physician explains that lipoproteins have a polar outer shell containing phospholipids, free cholesterol, and apolipoproteins, while the non-polar hydrophobic core contains triacylglycerol and cholesteryl esters. One apolipoprotein acts as an activator of lipoprotein lipase, which helps in hydrolysis of triglycerides from chylomicrons and VLDL.\nWhich of the following apolipoproteins activates lipoprotein lipase?",
     options: [
-      "Sunburst appearance with Codman triangle",
-      "Onion-skin appearance with sequestrum",
-      "Soap-bubble appearance with egg-shell cracking",
-      "Ground-glass appearance with cortical tunneling"
+      "Apo C-II",
+      "Apo A-I",
+      "Apo B-100",
+      "Apo E"
     ],
     answerIndex: 0,
-    correctAnswerText: "Sunburst appearance with Codman triangle"
+    correctAnswerText: "Apo C-II"
   },
-
   {
     id: 34,
     image: "",
     question:
-      "A patient with osteosarcoma is being planned for definitive treatment. Which of the following is the most appropriate management strategy?",
+      "A 46-year-old patient with increased atherosclerotic risk has elevated LDL cholesterol. The clinician explains that oxidized LDL is taken up by macrophages, forming foam cells, which contribute to fatty streaks, plaques, thrombus formation, and embolic complications. LDL cholesterol is estimated using a formula only when serum triglycerides are below 400 mg/dL.\nWhich of the following is the correct Friedewald equation for calculating LDL cholesterol?",
     options: [
-      "Radiotherapy alone because the tumor is radiosensitive",
-      "Neoadjuvant chemotherapy followed by limb salvage surgery and postoperative chemotherapy",
-      "Immediate amputation without chemotherapy in all cases",
-      "Antibiotics followed by observation"
+      "LDL = Total cholesterol − HDL − Triglycerides/5",
+      "LDL = Total cholesterol + HDL − Triglycerides/5",
+      "LDL = HDL + VLDL − Total cholesterol",
+      "LDL = Triglycerides/5 − HDL"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Neoadjuvant chemotherapy followed by limb salvage surgery and postoperative chemotherapy"
+    answerIndex: 0,
+    correctAnswerText: "LDL = Total cholesterol − HDL − Triglycerides/5"
   },
-
   {
     id: 35,
     image: "",
     question:
-      "A 28-year-old man has persistent back pain due to a bone tumor involving the posterior elements of the spine. Imaging shows a lesion larger than 2 cm. Pain is present at night, but relief with aspirin is incomplete. Which of the following is the most likely diagnosis?",
+      "A 42-year-old patient is being evaluated for low HDL levels and increased cardiovascular risk. The physician explains that HDL removes excess cholesterol from peripheral tissues and esterifies it with the help of an enzyme activated by Apo A-I. This enzyme converts free cholesterol into cholesteryl ester during reverse cholesterol transport.\nWhich of the following enzymes is activated by Apo A-I?",
     options: [
-      "Osteoid osteoma",
-      "Enchondroma",
-      "Osteoblastoma",
-      "Chondroblastoma"
+      "Lipoprotein lipase",
+      "LCAT",
+      "Hormone-sensitive lipase",
+      "HMG-CoA reductase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Osteoblastoma"
+    answerIndex: 1,
+    correctAnswerText: "LCAT"
   },
-
   {
     id: 36,
     image: "",
     question:
-      "A 13-year-old boy presents with mild knee pain and swelling. X-ray shows an eccentric, slightly expansile lesion in the epiphysis of the distal femur. Biopsy reveals characteristic chicken-wire calcification. Which of the following is the most likely diagnosis?",
+      "A chronic alcoholic patient presents with hypoglycemia and lactic acidosis after prolonged alcohol intake. Biochemical evaluation shows increased hepatic NADH/NAD⁺ ratio due to oxidation of ethanol to acetaldehyde and then acetate. This increased NADH shifts pyruvate toward lactate and oxaloacetate toward malate.\nWhich of the following metabolic consequences is most likely due to excess NADH in alcohol metabolism?",
     options: [
-      "Osteochondroma",
-      "Giant cell tumor",
-      "Aneurysmal bone cyst",
-      "Chondroblastoma (Codman tumor)"
+      "Increased gluconeogenesis",
+      "Lactic acidosis with hypoglycemia",
+      "Decreased beta-hydroxybutyrate formation",
+      "Increased oxaloacetate availability for gluconeogenesis"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Chondroblastoma (Codman tumor)"
+    answerIndex: 1,
+    correctAnswerText: "Lactic acidosis with hypoglycemia"
   },
-
   {
     id: 37,
     image: "",
     question:
-      "A basketball player lands awkwardly and develops pain over the lateral border of the foot. X-ray shows an avulsion fracture of the tuberosity at the base of the 5th metatarsal caused by pull of the peroneus brevis tendon. Which of the following is the correct diagnosis?",
+      "A researcher is studying the structural features of amino acids present in mammalian proteins. One amino acid is found to be optically inactive because its side chain is hydrogen, making it achiral and symmetrical. It is also the simplest amino acid.\nWhich of the following amino acids is described above?",
     options: [
-      "Pseudo-Jones fracture",
-      "Jones fracture",
-      "March fracture",
-      "Lisfranc fracture"
+      "Alanine",
+      "Valine",
+      "Glycine",
+      "Isoleucine"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Pseudo-Jones fracture"
+    answerIndex: 2,
+    correctAnswerText: "Glycine"
   },
-
   {
     id: 38,
     image: "",
     question:
-      "A pilot meets with an air crash and sustains a fracture of the talus. Four weeks later, the orthopedic team monitors for avascular necrosis because of the retrograde blood supply of this bone. Which of the following fractures is classically called “aviator’s fracture”?",
+      "A 24-year-old student is studying amino acids involved in methylation reactions. One sulfur-containing amino acid forms S-adenosyl methionine, which acts as an important methyl group donor in several biochemical reactions.\nWhich of the following amino acids is the precursor of S-adenosyl methionine?",
     options: [
-      "Fracture of body of talus",
-      "Fracture of neck of talus",
-      "Fracture of lateral malleolus",
-      "Fracture of calcaneum"
+      "Cysteine",
+      "Serine",
+      "Methionine",
+      "Tyrosine"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Fracture of neck of talus"
+    answerIndex: 2,
+    correctAnswerText: "Methionine"
   },
-
   {
     id: 39,
     image: "",
     question:
-      "A 9-year-old child with neglected CTEV requires salvage surgery. The surgeon plans triple arthrodesis. Which of the following joints is included in triple arthrodesis?",
+      "A child with suspected selenium deficiency develops cardiomyopathy. The physician explains that selenium is incorporated into proteins as selenocysteine, which is encoded by a special codon and is important for enzymes such as glutathione peroxidase and iodothyronine deiodinase.\nWhich of the following statements about selenocysteine is correct?",
     options: [
-      "Tibiotalar joint",
-      "Superior tibiofibular joint",
-      "Talonavicular joint",
-      "First tarsometatarsal joint"
+      "It is encoded by UAA codon",
+      "It is structurally similar to methionine",
+      "It is encoded by UGA codon and is an analog of cysteine",
+      "It is mainly involved in collagen hydroxylation"
     ],
     answerIndex: 2,
-    correctAnswerText: "Talonavicular joint"
+    correctAnswerText: "It is encoded by UGA codon and is an analog of cysteine"
   },
-
   {
     id: 40,
     image: "",
     question:
-      "A 2-week-old infant is started on Ponseti treatment for clubfoot. Which of the following statements regarding the manipulation and casting sequence is correct?",
+      "A 28-year-old athlete performs prolonged exercise. His skeletal muscle transfers amino nitrogen to pyruvate, forming alanine. Alanine travels to the liver, where it is converted back to pyruvate and used for gluconeogenesis. This cycle helps transport nitrogen safely from muscle to liver.\nWhich of the following best describes this cycle?",
     options: [
-      "Mother should perform daily forceful correction and equinus is corrected first",
-      "First cast is applied immediately before the umbilical stump falls off, with simultaneous correction of all deformities",
-      "Weekly casting is avoided in infancy and manipulation begins after 1 year",
-      "Manipulation is done by the doctor, correction starts as early as possible after birth, cavus and varus are corrected first, and equinus is corrected last"
+      "Cori cycle",
+      "Urea cycle",
+      "Glucose-alanine cycle / Cahill cycle",
+      "Carnitine shuttle"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Manipulation is done by the doctor, correction starts as early as possible after birth, cavus and varus are corrected first, and equinus is corrected last"
+    answerIndex: 2,
+    correctAnswerText: "Glucose-alanine cycle / Cahill cycle"
   },
-
   {
     id: 41,
     image: "",
     question:
-      "A football player sustains a midfoot injury. Imaging shows disruption at the tarsometatarsal articulation. Which of the following joints is involved?",
+      "A 45-year-old chronic alcoholic patient is evaluated for liver injury. His liver function test shows markedly raised AST compared to ALT. The physician explains that aminotransferases require vitamin B₆ and transfer amino groups without releasing free ammonia.\nWhich of the following statements about transamination is correct?",
     options: [
-      "Lisfranc joint",
-      "Chopart joint",
-      "Talocalcaneal joint",
-      "Tibiotalar joint"
+      "It releases free ammonia directly",
+      "It is an irreversible reaction",
+      "It does not require pyridoxal phosphate",
+      "It transfers amino group from amino acid to alpha-keto acid"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Lisfranc joint"
+    answerIndex: 3,
+    correctAnswerText: "It transfers amino group from amino acid to alpha-keto acid"
   },
-
   {
     id: 42,
     image: "",
     question:
-      "A patient with Pott’s paraplegia has no awareness of neurological deficit but on examination shows increased deep tendon reflexes and ankle clonus, which is the earliest sign. According to Tuli’s clinical staging, this patient is in:",
+      "A patient with hyperammonemia is being evaluated. The physician explains that ammonia is transported safely in blood mainly as glutamine, which is non-toxic. In the liver, ammonia enters the urea cycle. The first step of the urea cycle occurs in mitochondria and requires N-acetylglutamate as a positive allosteric activator.\nWhich of the following enzymes catalyzes the first committed mitochondrial step of the urea cycle?",
     options: [
-      "Stage II",
-      "Stage I",
-      "Stage III",
-      "Stage IV"
+      "Arginase",
+      "Argininosuccinate lyase",
+      "Ornithine transcarbamoylase",
+      "Carbamoyl phosphate synthetase I"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Stage I"
+    answerIndex: 3,
+    correctAnswerText: "Carbamoyl phosphate synthetase I"
   },
-
   {
     id: 43,
     image: "",
     question:
-      "A patient with advanced spinal tuberculosis develops angular spinal deformity due to prominent spinous processes. Involvement of two to three vertebrae produces which classical deformity?",
+      "A neonate develops poor feeding, vomiting, lethargy, seizures, and severe hyperammonemia within the first few days of life. Urine analysis shows orotic aciduria. Enzyme assay reveals deficiency of the most common urea cycle enzyme disorder, inherited in an X-linked recessive pattern.\nWhich of the following enzyme deficiencies is most likely responsible?",
     options: [
-      "Knuckle deformity",
-      "Scoliosis",
-      "Gibbus deformity",
-      "Lordosis"
+      "Ornithine transcarbamoylase deficiency",
+      "Argininosuccinate synthetase deficiency",
+      "Argininosuccinate lyase deficiency",
+      "Arginase deficiency"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Gibbus deformity"
+    answerIndex: 0,
+    correctAnswerText: "Ornithine transcarbamoylase deficiency"
   },
-
   {
     id: 44,
     image: "",
     question:
-      "A patient with Pott’s spine develops vertebral body involvement adjacent to the intervertebral disc due to arterial spread. This is the commonest lesion type and is also the lesion most likely to complicate into Pott’s paraplegia. Which type of spinal TB is this?",
+      "A neonate presents with lethargy, seizures, hypotonia, and developmental delay. Plasma and cerebrospinal fluid show markedly elevated glycine levels. The defect involves impaired degradation of glycine by a mitochondrial multienzyme complex that normally converts glycine into CO₂, NH₄⁺, methylene-THF, and THF.\nWhich of the following disorders is most likely present?",
     options: [
-      "Central TB",
-      "Anterior TB",
-      "Posterior/appendiceal TB",
-      "Paradiscal TB"
+      "Non-ketotic hyperglycinemia",
+      "Phenylketonuria",
+      "Maple syrup urine disease",
+      "Homocystinuria"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Paradiscal TB"
+    answerIndex: 0,
+    correctAnswerText: "Non-ketotic hyperglycinemia"
   },
-
   {
     id: 45,
     image: "",
     question:
-      "A 32-year-old man falls asleep with his arm hanging over a chair after alcohol intoxication. He wakes up with wrist drop. Nerve conduction is blocked, but the axon and nerve sheaths are intact. Which of the following is the most likely diagnosis?",
+      "A 6-year-old child presents with developmental delay, tall stature, ectopia lentis, and thromboembolic tendency. Biochemical evaluation shows increased homocysteine levels. The physician explains that methionine metabolism involves S-adenosyl methionine, methyl-B₁₂, and transsulfuration pathway.\nWhich of the following features is classically associated with homocystinuria?",
     options: [
-      "Neurapraxia",
-      "Axonotmesis",
-      "Neurotmesis",
-      "Wallerian degeneration"
+      "Cataract with sorbitol accumulation",
+      "Ectopia lentis with thromboembolism",
+      "Cherry-red spot without hepatosplenomegaly",
+      "Hypoketotic hypoglycemia during fasting"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Neurapraxia"
+    answerIndex: 1,
+    correctAnswerText: "Ectopia lentis with thromboembolism"
   },
-
   {
     id: 46,
     image: "",
     question:
-      "A teenager with scoliosis is found to have a double curve pattern. Which of the following statements is correct regarding this type of scoliosis?",
+      "A newborn screening test shows elevated phenylalanine. The infant later develops intellectual disability, seizures, fair skin, and musty/mousy odor if untreated. The disorder is due to impaired conversion of phenylalanine to tyrosine. The first-line treatment is dietary restriction of phenylalanine with tyrosine supplementation.\nWhich of the following enzyme deficiencies is most commonly responsible for this disorder?",
     options: [
-      "It is more common and has better prognosis",
-      "It progresses earlier and has worse prognosis",
-      "It is always lumbar and non-progressive",
-      "It is treated only with exercises irrespective of Cobb’s angle"
+      "Tyrosinase deficiency",
+      "Phenylalanine hydroxylase deficiency",
+      "Homogentisate oxidase deficiency",
+      "Cystathionine beta-synthase deficiency"
     ],
     answerIndex: 1,
-    correctAnswerText: "It progresses earlier and has worse prognosis"
+    correctAnswerText: "Phenylalanine hydroxylase deficiency"
   },
-
   {
     id: 47,
     image: "",
     question:
-      "A 2-month-old infant is brought with the head tilted to the right and chin pointing to the left. Examination reveals a firm swelling in the right sternocleidomastoid muscle near the junction of its upper two-third and lower one-third. Which of the following is the most likely diagnosis?",
+      "A child presents with darkening of urine on standing and later develops black pigmentation of cartilage with arthritis-like symptoms. Biochemical evaluation shows accumulation of homogentisic acid, which gets oxidized to benzoquinone acetate.\nWhich of the following enzyme deficiencies is responsible for this condition?",
     options: [
-      "Klippel-Feil syndrome",
-      "Cervical lymphadenopathy",
-      "Congenital muscular torticollis",
-      "Atlantoaxial rotatory subluxation"
+      "Phenylalanine hydroxylase",
+      "Tyrosinase",
+      "Homogentisate oxidase",
+      "Fumarylacetoacetate hydrolase"
     ],
     answerIndex: 2,
-    correctAnswerText: "Congenital muscular torticollis"
+    correctAnswerText: "Homogentisate oxidase"
   },
-
   {
     id: 48,
     image: "",
     question:
-      "A young man is brought after a road traffic accident. He is unconscious, hypotensive, and bradycardic, with absent superficial and deep reflexes. The team suspects spinal cord injury with associated shock. Which of the following best explains this hemodynamic picture?",
+      "A patient with episodic headache, sweating, palpitations, and hypertension is suspected to have pheochromocytoma. Urinary testing shows increased catecholamine metabolites. The physician explains that norepinephrine and epinephrine are metabolized by COMT and MAO to form a final urinary metabolite.\nWhich of the following is the major metabolite measured in urine for this condition?",
     options: [
-      "Hypovolemic shock due to occult bleeding",
-      "Septic shock due to aspiration pneumonia",
-      "Cardiogenic shock due to blunt cardiac injury",
-      "Neurogenic / spinal shock due to spinal cord injury"
+      "Homovanillic acid",
+      "5-hydroxyindoleacetic acid",
+      "Vanillylmandelic acid",
+      "Xanthurenic acid"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Neurogenic / spinal shock due to spinal cord injury"
+    answerIndex: 2,
+    correctAnswerText: "Vanillylmandelic acid"
   },
-
   {
     id: 49,
     image: "",
     question:
-      "A restrained passenger in a high-speed motor vehicle accident complains of thoracolumbar pain. Imaging shows a horizontal splitting injury through all three columns of the spine caused by flexion-distraction. Which of the following is the most likely diagnosis?",
+      "A newborn is normal at birth but after a few days develops poor feeding, vomiting, lethargy, delayed milestones, and opisthotonus. The urine has a characteristic sweetish odor. Biochemical testing shows accumulation of branched-chain amino acids and their ketoacids due to defective oxidative decarboxylation.\nWhich of the following enzyme complexes is deficient in this condition?",
     options: [
-      "Chance fracture",
-      "Clay shoveler fracture",
-      "Spondylolysis",
-      "Compression wedge fracture"
+      "Phenylalanine hydroxylase",
+      "Histidase",
+      "Tyrosine aminotransferase",
+      "Branched-chain alpha-ketoacid dehydrogenase"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Chance fracture"
+    answerIndex: 3,
+    correctAnswerText: "Branched-chain alpha-ketoacid dehydrogenase"
   },
-
   {
     id: 50,
     image: "",
     question:
-      "A resident is asked to identify the components of the posterior column in Denis classification. Which of the following structures correctly belongs to the posterior column?",
+      "A patient is evaluated for folate deficiency. After giving a histidine load, there is increased urinary excretion of formiminoglutamate. Another patient with an aminoaciduria has urine with a sweaty feet odor, suggesting isovaleric acidemia. The physician explains that several amino acid disorders have characteristic odors.\nWhich of the following aminoaciduria–odor pairs is correctly matched?",
     options: [
-      "Anterior annulus fibrosus and anterior longitudinal ligament",
-      "Posterior ligament complex with neural arch elements such as pedicle, lamina, articular processes, transverse process, and spinous process",
-      "Posterior one-third of vertebral body and posterior one-third of disc",
-      "Posterior longitudinal ligament only"
+      "Phenylketonuria — Boiled cabbage odor",
+      "Maple syrup urine disease — Ammoniacal odor",
+      "Tyrosinemia type I — Mousy odor",
+      "Isovaleric acidemia — Sweaty feet odor"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Posterior ligament complex with neural arch elements such as pedicle, lamina, articular processes, transverse process, and spinous process"
+    answerIndex: 3,
+    correctAnswerText: "Isovaleric acidemia — Sweaty feet odor"
   },
-
   {
     id: 51,
     image: "",
     question:
-      "During an orthopedic procedure, the surgeon wants to remove small bites of bone rather than cleanly divide the bone in one stroke. Which of the following instruments is most appropriate?",
+      "A patient with impaired amino acid catabolism is being evaluated for defective replenishment of tricarboxylic acid cycle intermediates. The physician explains that some amino acids enter the cycle as oxaloacetate, alpha-ketoglutarate, fumarate, succinyl-CoA, or pyruvate. One amino acid directly replenishes oxaloacetate.\nWhich of the following amino acids is directly converted to oxaloacetate?",
     options: [
-      "Bone cutter",
-      "Farabeuf periosteal elevator",
-      "Bone nibbler",
-      "Bristol bone lever"
+      "Aspartate",
+      "Leucine",
+      "Lysine",
+      "Phenylalanine"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Bone nibbler"
+    answerIndex: 0,
+    correctAnswerText: "Aspartate"
   },
-
   {
     id: 52,
     image: "",
     question:
-      "A patient with a supracondylar femur fracture is planned for skeletal traction through cancellous bone. The surgeon chooses the most commonly used implant for skeletal traction in cancellous bone, characterized by a central groove, one pointed end and one blunt end, usually 4–6 mm in diameter. Which of the following is the correct implant?",
+      "A malnourished elderly patient is admitted after major surgery. The physician explains that amino acid balance depends on dietary protein intake, endogenous protein breakdown, protein synthesis, and amino acid degradation. Another student asks about gastric protein digestion and proteasomal degradation of intracellular proteins.\nWhich of the following statements is correct?",
     options: [
-      "Kirschner wire",
-      "Steinmann pin",
-      "Rush nail",
-      "Denham pin"
+      "Pepsinogen is activated to pepsin by gastric H⁺ and autocatalysis",
+      "Pepsin is most active at alkaline pH",
+      "Ubiquitin-mediated protein degradation does not require ATP",
+      "Protein denaturation destroys the primary amino acid sequence"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Denham pin"
+    answerIndex: 0,
+    correctAnswerText: "Pepsinogen is activated to pepsin by gastric H⁺ and autocatalysis"
   },
-
   {
     id: 53,
     image: "",
     question:
-      "A 24-year-old man presents after a fall on an outstretched hand with pain and swelling over the distal radius. The orthopedic resident asks for the classical cast position used for this fracture, in which the hand is kept as if giving a greeting. Which of the following is the most appropriate cast?",
+      "A medical student is classifying enzymes based on their reaction type. One enzyme uses molecular oxygen as an electron acceptor but does not incorporate oxygen into the substrate. Another enzyme directly incorporates oxygen into the substrate. The student also learns that some enzymes are RNA-based rather than protein-based.\nWhich of the following enzyme classes uses oxygen as an electron acceptor without incorporating it into the substrate?",
     options: [
-      "Glass-holding cast",
-      "Cylinder cast",
-      "Minerva cast",
-      "Hand-shake cast"
+      "Oxygenase",
+      "Oxidase",
+      "Hydrolase",
+      "Ligase"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Hand-shake cast"
+    answerIndex: 1,
+    correctAnswerText: "Oxidase"
   },
-
   {
     id: 54,
     image: "",
     question:
-      "A newborn develops weakness of the upper limb after difficult delivery. The affected limb is being maintained in an abducted, externally rotated position using a special splint. Which of the following is the most appropriate splint used in this condition?",
+      "A patient with chronic diarrhea, dermatitis, alopecia, and poor wound healing is suspected to have zinc deficiency. The physician explains that several enzymes require zinc as a metal cofactor. In enzyme structure, the complete functional enzyme consists of a protein part and a non-protein component.\nWhich of the following zinc-dependent enzymes is correctly matched?",
     options: [
-      "Aeroplane splint",
-      "Bohler Braun splint",
-      "U-slab",
-      "Cock-up splint"
+      "Superoxide dismutase",
+      "Carbonic anhydrase",
+      "Xanthine oxidase",
+      "Tyrosinase"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Aeroplane splint"
+    answerIndex: 1,
+    correctAnswerText: "Carbonic anhydrase"
   },
-
   {
     id: 55,
     image: "",
     question:
-      "A trauma patient with cervical spine injury requires external immobilisation using a device that supports the sternum, occiput, and mandible. Which of the following is the correct splint?",
+      "A researcher studies an enzyme-catalyzed reaction by gradually increasing the substrate concentration while keeping enzyme concentration constant. Initially, the reaction velocity rises rapidly, but later it reaches a plateau due to enzyme saturation. At a substrate concentration equal to Km, the reaction velocity is found to be half of the maximum velocity.\nWhich of the following statements is most accurate regarding Km?",
     options: [
-      "Milwaukee brace",
-      "SOMI / four-post collar",
-      "Taylor’s brace",
-      "Sling and swathe"
+      "Km is directly proportional to enzyme affinity",
+      "Km is equal to Vmax",
+      "Km is the substrate concentration at which velocity is half of Vmax",
+      "Km represents the y-intercept of Lineweaver–Burk plot"
     ],
-    answerIndex: 1,
-    correctAnswerText: "SOMI / four-post collar"
+    answerIndex: 2,
+    correctAnswerText: "Km is the substrate concentration at which velocity is half of Vmax"
   },
-
   {
     id: 56,
     image: "",
     question:
-      "A 58-year-old woman presents with nodular swelling over the proximal interphalangeal joints of both hands due to osteoarthritis. Which of the following is the correct name for these swellings?",
+      "An enzyme kinetic study is plotted as 1/V₀ versus 1/[S]. The graph is a straight line. The slope is calculated as Km/Vmax, the y-intercept is 1/Vmax, and the x-intercept is negative.\nWhich of the following correctly represents the x-intercept of a Lineweaver–Burk plot?",
     options: [
-      "Heberden’s nodes",
-      "Rheumatoid nodules",
-      "Bouchard’s nodes",
-      "Tophi"
+      "1/Vmax",
+      "Km/Vmax",
+      "−1/Km",
+      "Vmax/Km"
     ],
     answerIndex: 2,
-    correctAnswerText: "Bouchard’s nodes"
+    correctAnswerText: "−1/Km"
   },
-
   {
     id: 57,
     image: "",
     question:
-      "A 58-year-old woman presents with chronic knee pain, reduced walking distance, bony crepitus, and progressive bowing of the legs. X-ray of both knees in standing AP view shows medial compartment involvement. Which of the following is the most likely deformity seen in this condition?",
+      "A patient is given a drug that competes with the natural substrate for the active site of an enzyme. On Lineweaver–Burk plot, the slope increases, the x-intercept shifts towards zero, but the y-intercept remains unchanged.\nWhich of the following changes is most likely produced by this inhibitor?",
     options: [
-      "Genu valgum",
-      "Recurvatum",
-      "Flexion deformity alone",
-      "Genu varum"
+      "Decreased Km with decreased Vmax",
+      "Same Km with decreased Vmax",
+      "Decreased Km with same Vmax",
+      "Increased Km with same Vmax"
     ],
     answerIndex: 3,
-    correctAnswerText: "Genu varum"
+    correctAnswerText: "Increased Km with same Vmax"
   },
-
   {
     id: 58,
     image: "",
     question:
-      "A 23-year-old football player sustains a twisting knee injury and presents within a few hours with pain, swelling, and suspected acute anterior cruciate ligament tear. Which of the following is the test of choice in the acute setting?",
+      "A 58-year-old man presents with severe chest pain radiating to the left arm. Serum enzyme analysis shows raised creatine kinase-MB and an altered lactate dehydrogenase isoenzyme pattern, where LDH-1 becomes greater than LDH-2.\nWhich of the following statements is most appropriate?",
     options: [
-      "Lachman test",
-      "Anterior drawer test",
-      "Posterior drawer test",
-      "McMurray test"
+      "LDH-5 is predominantly found in heart",
+      "Acid phosphatase is used mainly for pancreatic disease",
+      "Alanine aminotransferase is primarily a marker of myocardial infarction",
+      "LDH-1 greater than LDH-2 is a flipped pattern seen in myocardial infarction"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Lachman test"
+    answerIndex: 3,
+    correctAnswerText: "LDH-1 greater than LDH-2 is a flipped pattern seen in myocardial infarction"
   },
-
   {
     id: 59,
     image: "",
     question:
-      "A football player sustains a knee injury after sudden hyperextension while trying to stop abruptly. He later complains of instability while walking downstairs. Which of the following structures is most likely injured?",
+      "A researcher is studying subcellular fractions of hepatocytes. One fraction shows high activity of glucose-6-phosphatase, active cytochrome P450–dependent oxidation of xenobiotics, and participation in protein and lipid biosynthesis.\nWhich organelle is most likely represented by this fraction?",
     options: [
-      "Posterior cruciate ligament",
-      "Anterior cruciate ligament",
-      "Medial collateral ligament",
-      "Lateral collateral ligament"
+      "Endoplasmic reticulum",
+      "Lysosome",
+      "Peroxisome",
+      "Mitochondria"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Anterior cruciate ligament"
+    answerIndex: 0,
+    correctAnswerText: "Endoplasmic reticulum"
   },
-
   {
     id: 60,
     image: "",
     question:
-      "A 24-year-old football player sustains a twisting injury to the knee. He presents with joint line pain and locking sensation. On examination, the clinician performs the diagnostic test of choice for meniscal tear. Which of the following is the correct answer?",
+      "A 32-year-old woman presents with recurrent episodes of severe abdominal pain, anxiety, confusion, and neuropsychiatric symptoms. There are no prominent bullous skin lesions. A defect in the heme biosynthetic pathway is suspected, and intravenous glucose is started.\nWhich enzyme deficiency is most classically associated with this condition?",
     options: [
-      "Apley’s grinding test",
-      "Lachman test",
-      "McMurray test",
-      "Posterior drawer test"
+      "Ferrochelatase",
+      "Porphobilinogen deaminase",
+      "Uroporphyrinogen decarboxylase",
+      "Coproporphyrinogen oxidase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "McMurray test"
-  },
-
+    answerIndex: 1,
+    correctAnswerText: "Porphobilinogen deaminase"
+},
   {
     id: 61,
     image: "",
     question:
-      "During the final phase of knee extension while standing, the examiner explains that the knee becomes stable by a locking mechanism. Which of the following correctly describes this locking movement?",
+      "A newborn develops unconjugated hyperbilirubinemia. On evaluation, bilirubin is found to be produced from heme breakdown, transported to the liver bound to albumin, and later conjugated with glucuronic acid before being secreted into bile.\nWhich enzyme is responsible for conjugation of bilirubin in the liver?",
     options: [
-      "Femur rotates laterally over tibia",
-      "Tibia rotates laterally over femur in all situations",
-      "Popliteus causes locking in extension",
-      "Femur rotates medially over tibia"
+      "Heme oxygenase",
+      "Biliverdin reductase",
+      "UDP-glucuronyl transferase",
+      "Cytochrome P450 reductase"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Femur rotates medially over tibia"
+    answerIndex: 2,
+    correctAnswerText: "UDP-glucuronyl transferase"
   },
-
   {
     id: 62,
     image: "",
     question:
-      "A 15-year-old overweight adolescent presents with antalgic limp and hip pain. On examination, there is obligatory external rotation during hip flexion. The surgeon decides to treat the lesion definitively while preserving the capital epiphysis in the acetabulum. Which of the following is the most appropriate treatment?",
+      "A mountaineer staying at high altitude for several weeks develops physiological adaptation with increased erythrocyte count, increased hemoglobin concentration, and increased 2,3-BPG level. His hemoglobin shows cooperative oxygen binding and a sigmoid oxygen dissociation curve.\nWhich of the following statements is most appropriate regarding hemoglobin?",
     options: [
-      "In situ pinning after closed reduction",
-      "Total hip replacement",
-      "Hip spica alone",
-      "Open excision of femoral head"
+      "Adult hemoglobin mainly contains α₂δ₂ chains",
+      "Myoglobin shows cooperative binding with sigmoid curve",
+      "Sickle cell hemoglobin is due to replacement of valine by glutamate",
+      "Adult hemoglobin mainly contains α₂β₂ chains and binds oxygen cooperatively"
     ],
-    answerIndex: 0,
-    correctAnswerText: "In situ pinning after closed reduction"
+    answerIndex: 3,
+    correctAnswerText:
+      "Adult hemoglobin mainly contains α₂β₂ chains and binds oxygen cooperatively"
   },
-
   {
     id: 63,
     image: "",
     question:
-      "A 7-year-old boy is brought with limp, hip pain, and difficulty sitting cross-legged. The pain is sometimes felt in the groin and sometimes referred to the knee. Examination shows painful restriction of abduction. MRI confirms idiopathic osteonecrosis of the femoral head. Which of the following is the most likely diagnosis?",
+      "A patient with suspected mitochondrial toxicity is being evaluated. The electron transport chain enzyme complexes are located in the inner mitochondrial membrane. Electrons from NADH enter through Complex I and are transferred to coenzyme Q, while electrons from succinate enter through Complex II.\nWhich of the following is the correct enzyme complex for entry of electrons from NADH into the electron transport chain?",
     options: [
-      "Slipped capital femoral epiphysis",
-      "Legg-Calvé-Perthes disease",
-      "Septic arthritis of hip",
-      "Developmental dysplasia of hip"
+      "NADH–Coenzyme Q oxidoreductase",
+      "Succinate–Coenzyme Q reductase",
+      "Cytochrome c oxidase",
+      "ATP synthase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Legg-Calvé-Perthes disease"
+    answerIndex: 0,
+    correctAnswerText: "NADH–Coenzyme Q oxidoreductase"
   },
-
   {
     id: 64,
     image: "",
     question:
-      "A 2-month-old infant is brought for screening. On examination, the hip is already dislocated, and when the examiner abducts the hip while applying gentle traction, a palpable “clunk” is felt as the femoral head enters the acetabulum. Which of the following test is being performed?",
+      "A researcher studies oxidative phosphorylation in isolated mitochondria. Electron transfer from NADH and FADH₂ to oxygen generates a proton gradient across the inner mitochondrial membrane. Protons return to the matrix through ATP synthase, leading to ATP formation.\nWhich of the following statements is correct regarding ATP yield in oxidative phosphorylation?",
     options: [
-      "Barlow’s test",
-      "Galeazzi test",
-      "Ortolani’s test",
-      "Trendelenburg test"
+      "NADH produces 1.5 ATP and FADH₂ produces 2.5 ATP",
+      "NADH produces 2.5 ATP and FADH₂ produces 1.5 ATP",
+      "Both NADH and FADH₂ produce 2.5 ATP each",
+      "FADH₂ produces more ATP than NADH"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Ortolani’s test"
+    answerIndex: 1,
+    correctAnswerText: "NADH produces 2.5 ATP and FADH₂ produces 1.5 ATP"
   },
-
   {
     id: 65,
     image: "",
     question:
-      "A neonate with risk factors for DDH is being evaluated. The mother asks which risk profile classically favors this condition the most. Which of the following best represents the typical high-risk child?",
+      "A child is brought to emergency after accidental ingestion of a chemical used as a pesticide. He develops hyperthermia, excessive sweating, tachypnea, and marked increase in oxygen consumption. ATP production is reduced despite an active electron transport chain.\nWhich of the following best explains the mechanism of this compound?",
     options: [
-      "Male, later-born, dark-complexioned, cephalic baby",
-      "Female, multiparous mother, low relaxin state, Asian baby",
-      "Male, breech with flexed hips, no family history",
-      "Female first-born breech baby with family history and faulty intrauterine position"
+      "Inhibition of Complex I electron transfer",
+      "Blockade of ATP synthase proton channel",
+      "Dissociation of oxidation from phosphorylation",
+      "Inhibition of cytochrome oxidase by blocking oxygen reduction"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Female first-born breech baby with family history and faulty intrauterine position"
+    answerIndex: 2,
+    correctAnswerText: "Dissociation of oxidation from phosphorylation"
   },
-
   {
     id: 66,
     image: "",
     question:
-      "A patient has difficulty climbing stairs. When he stands on the left lower limb, the pelvis on the right side drops. Which of the following nerves is most likely injured?",
+      "A researcher compares two tissues. In skeletal muscle and brain, cytosolic NADH electrons enter the electron transport chain through a shuttle that transfers electrons to FAD and finally to Complex II. In heart and liver, another shuttle transfers electrons as mitochondrial NADH and yields higher ATP.\nWhich of the following correctly matches the shuttle system with ATP yield?",
     options: [
-      "Left superior gluteal nerve",
-      "Right superior gluteal nerve",
-      "Left inferior gluteal nerve",
-      "Right inferior gluteal nerve"
+      "Glycerol-3-phosphate shuttle — 2.5 ATP",
+      "Malate-aspartate shuttle — 1.5 ATP",
+      "Both shuttles produce equal ATP",
+      "Glycerol-3-phosphate shuttle — 1.5 ATP; Malate-aspartate shuttle — 2.5 ATP"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Left superior gluteal nerve"
+    answerIndex: 3,
+    correctAnswerText:
+      "Glycerol-3-phosphate shuttle — 1.5 ATP; Malate-aspartate shuttle — 2.5 ATP"
   },
-
   {
     id: 67,
     image: "",
     question:
-      "A 2-year-old boy is brought with acute fever, limp, severe hip pain, and refusal to move the limb. The hip is held in flexion, abduction, and external rotation. Which of the following is the most likely diagnosis?",
+      "A child presents with difficulty seeing in dim light. Biochemical evaluation shows defective regeneration of the visual pigment in photoreceptors. In the normal visual cycle, light converts the retinal component of rhodopsin into which of the following forms?",
     options: [
-      "Transient synovitis",
-      "Septic arthritis of hip",
-      "Perthes disease",
-      "Slipped capital femoral epiphysis"
+      "All-trans-retinal",
+      "11-cis-retinal",
+      "Retinoic acid",
+      "Retinol"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Septic arthritis of hip"
+    answerIndex: 0,
+    correctAnswerText: "All-trans-retinal"
   },
-
   {
     id: 68,
     image: "",
     question:
-      "A patient with suspected tuberculous arthritis of the hip undergoes X-ray. The orthopedician mentions that the radiograph shows the classical triad of juxta-articular osteopenia, periarticular erosions, and reduced joint space. What is this radiological triad called?",
+      "A 4-year-old child with chronic malnutrition develops night blindness, dry conjunctiva, and triangular foamy lesions on the conjunctiva. Another pregnant woman is advised to avoid high-dose retinoid therapy because of teratogenic risk.\nWhich of the following is the confirmatory ocular sign of vitamin A deficiency?",
     options: [
-      "Trethowan triad",
-      "Charcot triad",
-      "Phemister triad",
-      "Codman triad"
+      "Night blindness",
+      "Bitot’s spot",
+      "Corneal xerosis",
+      "Corneal scar"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Phemister triad"
+    answerIndex: 1,
+    correctAnswerText: "Bitot’s spot"
   },
-
   {
     id: 69,
     image: "",
     question:
-      "A 28-year-old man presents with mild to moderate pain and swelling around the proximal tibia. Imaging shows a localized cavity, and the lesion is described as a subacute osteomyelitis where the organism is trapped within fibrous tissue proliferation. Which of the following is the most likely diagnosis?",
+      "A premature infant develops hemolytic anemia with increased sensitivity of red blood cell membranes to peroxide-induced injury. The child is suspected to have deficiency of a fat-soluble vitamin that acts as the most potent natural antioxidant and prevents lipid peroxidation.\nWhich of the following is the most important function of this vitamin?",
     options: [
-      "Garré’s sclerosing osteomyelitis",
-      "Acute hematogenous osteomyelitis",
-      "Tuberculous osteomyelitis",
-      "Brodie’s abscess"
+      "Gamma-carboxylation of clotting factors",
+      "Formation of visual pigment rhodopsin",
+      "Prevention of lipid peroxidation",
+      "Oxidative decarboxylation of alpha-keto acids"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Brodie’s abscess"
+    answerIndex: 2,
+    correctAnswerText: "Prevention of lipid peroxidation"
   },
-
   {
     id: 70,
     image: "",
     question:
-      "A 2-year-old child from a rural background presents with acute onset pain, swelling, warmth, redness, and refusal to use the limb for the last 2 days. The most common site involved is just above the knee. Which of the following is the earliest X-ray sign of acute osteomyelitis?",
+      "A newborn develops bleeding tendency with prolonged prothrombin time. Biochemical analysis shows defective post-translational modification of clotting factors II, VII, IX and X. Another patient with chronic alcoholism develops peripheral neuropathy and Wernicke-like symptoms due to deficiency of a vitamin required for pyruvate dehydrogenase.\nWhich of the following statements is correct?",
     options: [
-      "Soft tissue shadow",
-      "Periosteal reaction",
-      "Sequestrum formation",
-      "Cloaca formation"
+      "Vitamin K deficiency primarily decreases rhodopsin regeneration",
+      "Vitamin B1 deficiency causes defective gamma-carboxylation of clotting factors",
+      "Vitamin E is required for activation of clotting factors II, VII, IX and X",
+      "Vitamin K is required for gamma-carboxylation of glutamate residues in clotting factors"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Soft tissue shadow"
+    answerIndex: 3,
+    correctAnswerText:
+      "Vitamin K is required for gamma-carboxylation of glutamate residues in clotting factors"
   },
-
   {
     id: 71,
     image: "",
     question:
-      "A 14-year-old boy with sickle cell disease develops acute osteomyelitis. Which of the following organisms is classically associated with this setting?",
+      "A patient presents with sore throat, angular stomatitis, cheilosis, seborrheic dermatitis, magenta tongue and photophobia. Examination also shows corneal vascularization. Deficiency of a vitamin whose active forms act as prosthetic groups for succinate dehydrogenase, acyl-CoA dehydrogenase, glycerol-3-phosphate dehydrogenase and glutathione reductase is suspected.\nWhich of the following is the correct active form of the deficient vitamin?",
     options: [
-      "Staphylococcus aureus",
-      "Salmonella",
-      "Pseudomonas",
-      "Eikenella"
+      "Flavin adenine dinucleotide and flavin mononucleotide",
+      "Nicotinamide adenine dinucleotide and nicotinamide adenine dinucleotide phosphate",
+      "Pyridoxal phosphate",
+      "Thiamine pyrophosphate"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Salmonella"
+    answerIndex: 0,
+    correctAnswerText: "Flavin adenine dinucleotide and flavin mononucleotide"
   },
-
   {
     id: 72,
     image: "",
     question:
-      "Which of the following drug regimens is correctly matched with its bisphosphonate dosing schedule?",
+      "A patient with chronic diarrhea, dermatitis over sun-exposed areas, dementia and glossitis is diagnosed with pellagra. History reveals intake of maize-based diet and long-term anti-tubercular therapy. Another patient taking the same drug develops convulsions, dermatitis, cheilosis and peripheral neuropathy.\nWhich of the following vitamins is classically deficient in the second patient?",
     options: [
-      "Zoledronate 35 mg tablet weekly",
-      "Risedronate 5 mg IV yearly",
-      "Ibandronate 150 mg tablet monthly",
-      "Ibandronate 35 mg tablet weekly"
+      "Niacin",
+      "Pyridoxine",
+      "Riboflavin",
+      "Pantothenic acid"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Ibandronate 150 mg tablet monthly"
+    answerIndex: 1,
+    correctAnswerText: "Pyridoxine"
   },
-
   {
     id: 73,
     image: "",
     question:
-      "A 65-year-old woman is evaluated for low bone density. The orthopedician orders the investigation of choice for diagnosing osteoporosis. Which of the following is the correct test?",
+      "A 28-year-old man is evaluated in a metabolic laboratory after an overnight fast. His oxygen consumption and carbon dioxide production are measured at complete physical and mental rest in a reclining position under normal temperature and humidity. The test is used to calculate basal metabolic rate and respiratory quotient.\nWhich of the following dietary substrates has the highest caloric value per gram?",
     options: [
-      "DEXA scan",
-      "MRI spine",
-      "Bone biopsy",
-      "Skeletal survey X-ray"
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Alcohol"
     ],
-    answerIndex: 0,
-    correctAnswerText: "DEXA scan"
+    answerIndex: 2,
+    correctAnswerText: "Fat"
   },
-
   {
     id: 74,
     image: "",
     question:
-      "A 70-year-old man is incidentally found to have a high-turnover bone disease involving the pelvis. He later develops back pain and progressive sensorineural hearing loss due to cranial nerve compression. Which of the following is the most likely diagnosis?",
+      "A 3-year-old boy presents with developmental delay, hyperuricemia and repeated biting of lips and fingers. Genetic analysis reveals an X-linked recessive defect in an enzyme involved in the purine salvage pathway. This enzyme normally converts hypoxanthine to inosine monophosphate and guanine to guanosine monophosphate using phosphoribosyl pyrophosphate.\nWhich of the following enzymes is deficient in this child?",
     options: [
-      "Osteopetrosis",
-      "Fibrous dysplasia",
-      "Paget’s disease of bone",
-      "Osteomalacia"
+      "Adenine phosphoribosyltransferase",
+      "Ribonucleotide reductase",
+      "Thymidylate synthase",
+      "Hypoxanthine-guanine phosphoribosyltransferase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Paget’s disease of bone"
+    answerIndex: 3,
+    correctAnswerText: "Hypoxanthine-guanine phosphoribosyltransferase"
   },
-
   {
     id: 75,
     image: "",
     question:
-      "A child presents with recurrent infections, hepatosplenomegaly, bleeding episodes, and pancytopenia. X-ray shows dense sclerotic bones with Erlenmeyer flask deformity. Which of the following is the most likely diagnosis?",
+      "A 6-month-old boy presents with recurrent severe bacterial, viral and fungal infections. Flow cytometry shows marked reduction of both B cells and T cells. Enzyme assay reveals deficiency of an enzyme involved in purine metabolism, leading to accumulation of toxic deoxyadenosine metabolites in lymphocytes.\nWhich of the following enzyme deficiencies best explains this condition?",
     options: [
-      "Osteomalacia",
-      "Osteoporosis",
-      "Osteopetrosis",
-      "Paget’s disease of bone"
+      "Adenosine deaminase",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Adenine phosphoribosyltransferase",
+      "Xanthine oxidase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Osteopetrosis"
+    answerIndex: 0,
+    correctAnswerText: "Adenosine deaminase"
   },
-
   {
     id: 76,
     image: "",
     question:
-      "A child with brittle bone disease has repeated diaphyseal fractures and limb deformities. The orthopedician plans standard supportive management. Which of the following is the most appropriate treatment approach?",
+      "A child presents with megaloblastic anemia, growth retardation and excess urinary orotic acid. Serum ammonia level is normal. The defective enzyme complex normally converts orotate to uridine monophosphate during pyrimidine biosynthesis.\nWhich of the following enzyme complexes is deficient in this disorder?",
     options: [
-      "Only prolonged immobilization in plaster casts",
-      "Bone marrow transplantation",
-      "High-dose steroids and traction",
-      "Braces and bisphosphonates"
+      "Carbamoyl phosphate synthetase II",
+      "Uridine monophosphate synthase",
+      "Dihydroorotate dehydrogenase",
+      "Ribonucleotide reductase"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Braces and bisphosphonates"
+    answerIndex: 1,
+    correctAnswerText: "Uridine monophosphate synthase"
   },
-
   {
     id: 77,
     image: "",
     question:
-      "A patient with suspected carpal tunnel syndrome undergoes bedside clinical testing. Which of the following tests is considered more specific and more diagnostic for this condition?",
+      "A researcher is studying a double-stranded DNA sample. The DNA has adenine 23%, thymine 23%, cytosine 27% and guanine 27%. On heating, the strands separate at a particular temperature, and absorbance at 260 nm increases.\nWhich of the following statements is most appropriate regarding this DNA sample?",
     options: [
-      "Durkan test",
-      "Tinel sign",
-      "Froment sign",
-      "Book test"
+      "Adenine pairs with guanine by three hydrogen bonds",
+      "The coding strand is complementary to messenger RNA",
+      "Higher guanine-cytosine content increases melting temperature",
+      "Organic solvents increase the melting temperature of DNA"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Durkan test"
+    answerIndex: 2,
+    correctAnswerText: "Higher guanine-cytosine content increases melting temperature"
   },
-
   {
     id: 78,
     image: "",
     question:
-      "A patient with suspected thoracic outlet syndrome is asked to extend the neck fully, rotate the head toward the examined side, and take a deep breath while the examiner looks for reduction in radial pulse amplitude. Which of the following test is being performed?",
+      "A cell in S phase is actively replicating its DNA. At the replication fork, one strand is synthesized continuously, while the other is synthesized discontinuously as multiple short fragments. The DNA is also packed around basic proteins to form nucleosomes.\nWhich of the following statements is correct?",
     options: [
-      "Tinel sign",
-      "Adson test",
-      "Egawa test",
-      "Card test"
+      "DNA polymerase adds nucleotides to the 5’ phosphate end",
+      "Lagging strand is synthesized continuously",
+      "Heterochromatin is transcriptionally active",
+      "DNA polymerase adds nucleotides only to the free 3’-OH end"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Adson test"
+    answerIndex: 3,
+    correctAnswerText: "DNA polymerase adds nucleotides only to the free 3’-OH end"
   },
-
   {
     id: 79,
     image: "",
     question:
-      "Which of the following terms is correctly matched with its definition?",
+      "A molecular biology laboratory is using a bacterial DNA polymerase fragment for DNA labeling and sequencing experiments. This fragment has DNA polymerase activity and 3’ → 5’ exonuclease proofreading activity, but lacks 5’ → 3’ exonuclease activity.\nWhich of the following is the enzyme fragment being used?",
     options: [
-      "Arthrodesis – surgical replacement of a joint",
-      "Arthroscopy – aspiration of a joint",
-      "Arthrotomy – surgical opening of a joint via wide incision",
-      "Ankylosis – minimally invasive inspection of a joint"
+      "Klenow fragment of DNA polymerase I",
+      "DNA polymerase III holoenzyme",
+      "DNA polymerase γ",
+      "DNA polymerase α"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Arthrotomy – surgical opening of a joint via wide incision"
+    answerIndex: 0,
+    correctAnswerText: "Klenow fragment of DNA polymerase I"
   },
-
   {
     id: 80,
     image: "",
     question:
-      "A patient is unable to hold a card between adjacent fingers when the examiner tries to pull it away. The involved muscle action is adduction of fingers, and the responsible nerve is the ulnar nerve. Which of the following structure is primarily being tested?",
+      "A patient with recurrent optic neuropathy is suspected to have a mitochondrial DNA disorder. Genetic analysis reveals a maternally inherited mutation. In another experiment, a cancer cell line shows high telomerase activity, allowing continuous cell division.\nWhich of the following statements is correct?",
     options: [
-      "Dorsal interossei",
-      "Thenar muscles",
-      "Lumbricals",
-      "Palmar interossei"
+      "Telomerase shortens telomeres in germ cells and stem cells",
+      "Mitochondrial DNA shows maternal inheritance and has a higher mutation rate than nuclear DNA",
+      "Topoisomerase I cuts both DNA strands and requires ATP",
+      "Mitochondrial DNA is linear and contains many introns"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Palmar interossei"
+    answerIndex: 1,
+    correctAnswerText:
+      "Mitochondrial DNA shows maternal inheritance and has a higher mutation rate than nuclear DNA"
   },
-
   {
     id: 81,
     image: "",
     question:
-      "A 13-year-old child presents with wrist trauma. The teacher asks which carpal bone is the largest, first to ossify, and centrally located. Which of the following is correct?",
+      "A child presents with extreme photosensitivity, freckling over sun-exposed areas, and early-onset skin malignancies. Molecular testing shows defective removal of UV-induced pyrimidine dimers from DNA.\nWhich of the following DNA repair mechanisms is most likely defective?",
     options: [
-      "Capitate",
-      "Scaphoid",
-      "Pisiform",
-      "Lunate"
+      "Mismatch repair",
+      "Base excision repair",
+      "Nucleotide excision repair",
+      "Non-homologous end joining"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Capitate"
+    answerIndex: 2,
+    correctAnswerText: "Nucleotide excision repair"
   },
-
   {
     id: 82,
     image: "",
     question:
-      "A young man punches a wall and develops pain and swelling over the ulnar side of the hand. X-ray shows fracture at the neck of the fifth metacarpal. Which of the following is the most likely diagnosis?",
+      "A eukaryotic gene is transcribed into hnRNA containing both introns and exons. Before translation, the transcript undergoes processing with addition of a special nucleotide cap at the 5’ end, removal of introns, and addition of a polyadenylated tail at the 3’ end.\nWhich of the following correctly represents the 5’ cap added during post-transcriptional modification?",
     options: [
-      "Bennett fracture",
-      "Boxer’s fracture",
-      "Rolando fracture",
-      "Jersey finger"
+      "Polyadenylate tail",
+      "Uracil-rich splice site",
+      "Cytosine methyl cap",
+      "7-methyl guanosine cap"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Boxer’s fracture"
+    answerIndex: 3,
+    correctAnswerText: "7-methyl guanosine cap"
   },
-
   {
     id: 83,
     image: "",
     question:
-      "A man falls on the dorsum of his flexed wrist and sustains an extra-articular fracture of the distal radius. Imaging shows volar/anterior displacement of the distal fragment. Which of the following is the most likely diagnosis?",
+      "A researcher is studying protein synthesis and observes that an amino acid is attached to the 3’ end of its specific transfer RNA. This reaction uses ATP and produces AMP + PPi. The enzyme involved also has high fidelity to prevent wrong amino acid incorporation.\nWhich of the following enzymes catalyzes this reaction?",
     options: [
-      "Colles fracture",
-      "Monteggia fracture",
-      "Smith fracture",
-      "Galeazzi fracture"
+      "Aminoacyl-tRNA synthetase",
+      "Peptidyl transferase",
+      "RNA polymerase II",
+      "DNA ligase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Smith fracture"
+    answerIndex: 0,
+    correctAnswerText: "Aminoacyl-tRNA synthetase"
   },
-
   {
     id: 84,
     image: "",
     question:
-      "A 5-year-old child presents after minor trauma with wrist pain. X-ray shows a metaphyseal, complete, bicortical compression injury without concavo-convex deformity. It is less common than greenstick fracture. Which of the following is the most likely diagnosis?",
+      "A molecular biology experiment is studying eukaryotic transcription. A mutation affects the enzyme responsible for synthesizing messenger RNA, heterogeneous nuclear RNA, micro RNA, small nuclear RNA and long non-coding RNA. Another observation shows that the promoter contains a TATA box around −25 to −35 bp and requires TFIID for basal transcription complex formation.\nWhich of the following RNA polymerases is primarily involved?",
     options: [
-      "Greenstick fracture",
-      "Holstein-Lewis fracture",
-      "Stress fracture",
-      "Torus fracture"
+      "RNA polymerase I",
+      "RNA polymerase II",
+      "RNA polymerase III",
+      "Mitochondrial RNA polymerase"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Torus fracture"
+    answerIndex: 1,
+    correctAnswerText: "RNA polymerase II"
   },
-
   {
     id: 85,
     image: "",
     question:
-      "A 9-year-old child treated for supracondylar fracture of humerus undergoes repeated passive massage and forceful mobilization. A few weeks later, he develops painful restriction of elbow movement, and X-ray shows ectopic benign pathological bone formation in front of the elbow. Which of the following is the most likely diagnosis?",
+      "A DNA coding strand has the sequence 5’–AATTCCGGATC–3’. During transcription, the messenger RNA formed has the same sequence as the coding strand except that uracil replaces thymine.\nWhich of the following messenger RNA sequences will be produced?",
     options: [
-      "Myositis ossificans",
-      "Volkmann ischemic contracture",
-      "Osteochondroma",
-      "Septic arthritis of elbow"
+      "5’–TTAAGGCCTAG–3’",
+      "3’–AAUUCCGGAUC–5’",
+      "5’–AAUUCCGGAUC–3’",
+      "5’–GACUCCGGAAU–3’"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Myositis ossificans"
+    answerIndex: 2,
+    correctAnswerText: "5’–AAUUCCGGAUC–3’"
   },
-
   {
     id: 86,
     image: "",
     question:
-      "A 7-year-old child presents after a supracondylar fracture of humerus with severe forearm pain. The pain worsens markedly when the examiner passively stretches the fingers. Which of the following is the earliest clinical sign of compartment syndrome?",
+      "A bacterial cell is grown in a medium containing lactose but no glucose. The lac repressor is inactive, cyclic AMP level is high, and catabolite activator protein binds near the lac promoter, causing enhanced transcription of structural genes Z, Y and A.\nWhich of the following correctly represents the product of the lac Z gene?",
     options: [
-      "Pulselessness",
-      "Pain on passive stretching of fingers",
-      "Paralysis",
-      "Pallor"
+      "Permease",
+      "Transacetylase",
+      "Lac repressor",
+      "β-galactosidase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Pain on passive stretching of fingers"
+    answerIndex: 3,
+    correctAnswerText: "β-galactosidase"
   },
-
   {
     id: 87,
     image: "",
     question:
-      "A patient with recurrent anterior shoulder dislocation has a bony defect over the posterolateral aspect of the head of humerus seen on imaging. Which of the following lesions is most likely present?",
+      "A researcher studies a tumor suppressor gene that is transcriptionally inactive in a cancer cell. Analysis shows methylation at CpG islands near the promoter region. Another gene in the same cell becomes transcriptionally active after modification of histone lysine residues by histone acetylase.\nWhich of the following statements best explains these findings?",
     options: [
-      "Bankart lesion",
-      "SLAP lesion",
-      "Hill-Sachs lesion",
-      "Reverse Bankart lesion"
+      "DNA methylation causes heterochromatin formation, while histone acetylation causes euchromatin formation",
+      "DNA methylation activates transcription, while histone acetylation causes gene silencing",
+      "DNA methylation occurs mainly at adenine residues in eukaryotes",
+      "Histone acetylation is mainly responsible for genomic imprinting and mismatch repair"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Hill-Sachs lesion"
+    answerIndex: 0,
+    correctAnswerText:
+      "DNA methylation causes heterochromatin formation, while histone acetylation causes euchromatin formation"
   },
-
   {
     id: 88,
     image: "",
     question:
-      "A child with an old uncorrected supracondylar fracture humerus develops a gunstock deformity of the elbow due to malunion. Which of the following is the most likely deformity?",
+      "A forensic laboratory receives a small amount of double-stranded DNA from a crime scene. The sample is first amplified, then cut using restriction endonucleases, separated by gel electrophoresis, transferred by blotting, and finally analyzed to identify the individual.\nWhich of the following correctly represents the technique described?",
     options: [
-      "Cubitus valgus",
-      "Volkmann contracture",
-      "Tardy ulnar palsy",
-      "Cubitus varus"
+      "Southern blotting alone",
+      "Restriction Fragment Length Polymorphism–based DNA fingerprinting",
+      "Western blotting",
+      "Northern blotting"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Cubitus varus"
+    answerIndex: 1,
+    correctAnswerText:
+      "Restriction Fragment Length Polymorphism–based DNA fingerprinting"
   },
-
   {
     id: 89,
     image: "",
     question:
-      "A patient is examined for elbow trauma. In flexion, the olecranon, medial condyle, and lateral condyle form a triangle, while in extension they lie in a straight line. Which of the following structures together form this three bony point relationship?",
+      "A neonate is suspected to have a latent viral infection. A molecular test is performed using target DNA, primers, nucleotides, and a heat-stable DNA polymerase obtained from Thermus aquaticus. The amplified DNA is later analyzed using a blotting method.\nWhich of the following correctly matches the blotting technique with the molecule detected?",
     options: [
-      "Olecranon, medial condyle, and lateral condyle",
-      "Olecranon, capitulum, and trochlea",
-      "Coronoid process, radial head, and olecranon",
-      "Medial epicondyle, radial head, and lateral condyle"
+      "Northern blot — Protein",
+      "Western blot — DNA",
+      "Southern blot — DNA",
+      "Southwestern blot — RNA"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Olecranon, medial condyle, and lateral condyle"
+    answerIndex: 2,
+    correctAnswerText: "Southern blot — DNA"
   },
-
   {
     id: 90,
     image: "",
     question:
-      "A patient with anterior shoulder dislocation undergoes closed reduction. The orthopedician chooses the method of choice and performs the sequence: Traction → External rotation → Adduction → Internal rotation. Which of the following techniques is being used?",
+      "A scientist wants to edit a defective gene in cultured cells using a system that uses an RNA guide to direct an endonuclease to a specific DNA sequence. In another experiment, a recombinase system derived from bacteriophage P1 is used to cause inversion, deletion, or translocation of DNA segments.\nWhich of the following is the RNA-guided endonuclease system used for genome editing?",
     options: [
-      "Hippocratic technique",
-      "Modified Kocher’s technique",
-      "Stimson’s gravity method",
-      "Milch technique"
+      "CRE-Lox system",
+      "Flow cytometry",
+      "Fluorescence in situ hybridization",
+      "CRISPR-Cas9 system"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Modified Kocher’s technique"
+    answerIndex: 3,
+    correctAnswerText: "CRISPR-Cas9 system"
   },
-
   {
     id: 91,
     image: "",
     question:
-      "A 24-year-old volleyball player has recurrent shoulder instability after repeated overhead activity. During teaching rounds, the examiner asks which of the following is a dynamic stabilizer of the shoulder joint. Which is the best answer?",
+      "A 52-year-old obese man is planned for elective laparoscopic cholecystectomy under general anesthesia. During pre-operative assessment, he is found to have BMI 34 kg/m², thick beard, history of snoring, and absent teeth. The anesthetist anticipates difficulty mainly during which step of general anesthesia?",
     options: [
-      "Glenoid labrum",
-      "Glenohumeral ligaments",
-      "Rotator cuff",
-      "Negative intra-articular pressure"
+      "Intravenous induction",
+      "Bag and mask ventilation",
+      "Neuromuscular reversal",
+      "Extubation"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Rotator cuff"
+    answerIndex: 1,
+    correctAnswerText: "Bag and mask ventilation"
   },
-
   {
     id: 92,
     image: "",
     question:
-      "A 40-year-old patient is asked to initiate abduction of the shoulder from the resting position. Which of the following muscles is primarily responsible for the first 0–15 degrees of abduction?",
+      "A 45-year-old woman is posted for thyroid surgery. During airway assessment, she is asked to sit upright, open her mouth widely, protrude her tongue, and avoid phonation. Only the base of the uvula is visible, while the pillars are not seen. Which Mallampati class is this?",
     options: [
-      "Deltoid",
-      "Infraspinatus",
-      "Teres minor",
-      "Supraspinatus"
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Supraspinatus"
+    answerIndex: 2,
+    correctAnswerText: "Class III"
   },
-
-
   {
     id: 93,
-    image: "images/IMG_2868.jpeg",
+    image: "",
     question:
-    "A young adult presents after trauma to the forearm. The X-ray image shows a fracture of the shaft of the radius at the junction of middle and distal one-third with distal radioulnar joint (DRUJ) dislocation.\nWhich of the following is the most likely diagnosis?",
-  options: [
-    "Monteggia fracture-dislocation",
-    "Galeazzi fracture-dislocation",
-    "Nightstick fracture",
-    "Colles fracture"
-  ],
-  answerIndex: 1,
-  correctAnswerText: "Galeazzi fracture-dislocation"
-},
-
+      "A 48-year-old man is undergoing direct laryngoscopy for endotracheal intubation. On laryngoscopic view, no glottic structure is visible. Neither epiglottis, vocal cords, nor posterior commissure can be seen. According to Cormack–Lehane classification, which grade is this?",
+    options: [
+      "Grade I",
+      "Grade II",
+      "Grade III",
+      "Grade IV"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Grade IV"
+  },
   {
     id: 94,
-    image: "images/IMG_3093.jpeg",
+    image: "",
     question:
-      "What is the function of the muscle marked below? The marked muscle is seen on the medial aspect of the mandibular ramus, with superficial and deep heads, representing the medial pterygoid muscle.",
+      "A 58-year-old obese woman with large breasts is posted for surgery under general anesthesia. During preparation for intubation, pillows are placed under her head, neck, and shoulders so that the external auditory meatus lies in line with the suprasternal notch. Which position is being used?",
     options: [
-      "Elevation and protrusion of the mandible",
-      "Depression and protrusion of the mandible",
-      "Retraction and protrusion of the mandible",
-      "Depression and elevation of the mandible"
+      "HELP / RAMP position",
+      "Trendelenburg position",
+      "Lithotomy position",
+      "Prone position"
     ],
     answerIndex: 0,
-    correctAnswerText: "Elevation and protrusion of the mandible"
+    correctAnswerText: "HELP / RAMP position"
   },
-
   {
     id: 95,
-    image: "images/IMG_3092.jpeg",
+    image: "",
     question:
-      "The normal pattern of venous and lymphatic drainage of the superficial tissues of the anterior abdominal wall is arranged around a horizontal reference plane.\n➡️ Above this plane, drainage is in a cranial direction.\n➡️ Below this plane, drainage is in a caudal direction.\nThis reference plane corresponds to:",
+      "A 35-year-old singer is posted for a short elective surgical procedure. The anesthetist wants to avoid endotracheal intubation, reduce laryngeal trauma, and provide hands-free ventilation. A supraglottic airway device is selected. Which of the following is the best advantage of laryngeal mask airway over endotracheal tube?",
     options: [
-      "Zone B",
-      "Zone A",
-      "Zone C",
-      "Zone D"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Zone B"
-  },
-
-  {
-    id: 96,
-    image: "images/IMG_3091.jpeg",
-    question:
-      "Identify the marked muscle.",
-    options: [
-      "Medial pterygoid",
-      "Lateral pterygoid",
-      "Head of temporalis",
-      "Masseter"
+      "Completely prevents aspiration",
+      "No need of muscle relaxation",
+      "Useful in emergency surgery with full stomach",
+      "Best device in distorted upper airway anatomy"
     ],
     answerIndex: 1,
-    correctAnswerText: "Lateral pterygoid"
+    correctAnswerText: "No need of muscle relaxation"
   },
-
+  {
+    id: 96,
+    image: "",
+    question:
+      "A patient with anticipated difficult airway is planned for surgery. The anesthetist decides to secure the airway before induction using the gold standard technique. Which of the following is the preferred method?",
+    options: [
+      "Blind nasotracheal intubation",
+      "LMA insertion after induction",
+      "Awake fiberoptic bronchoscopy guided intubation",
+      "Emergency cricothyroidotomy"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Awake fiberoptic bronchoscopy guided intubation"
+  },
   {
     id: 97,
     image: "",
     question:
-      "A 68-year-old woman on long-term bisphosphonate therapy for osteoporosis presents with vague thigh and hip pain. X-ray shows an atypical subtrochanteric femur fracture with lateral cortical thickening, medial spike, transverse fracture line, and no comminution. Which of the following is the most likely underlying diagnosis?",
+      "A 40-year-old patient is intubated for general anesthesia. After insertion of the endotracheal tube, the anesthetist wants to confirm that the tube is in the trachea and not in the esophagus. Which of the following is the gold standard method for confirmation of endotracheal tube placement?",
     options: [
-      "Osteomalacia",
-      "Paget disease flare",
-      "Adynamic bone syndrome",
-      "Osteogenesis imperfecta"
+      "Bilateral chest rise",
+      "Auscultation of breath sounds",
+      "Fogging inside the tube",
+      "Fiberoptic bronchoscopy"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Adynamic bone syndrome"
+    answerIndex: 3,
+    correctAnswerText: "Fiberoptic bronchoscopy"
   },
-
   {
     id: 98,
     image: "",
     question:
-      "A 9-year-old child presents with fever, severe pain, and swelling around the lower end of femur. The orthopedician explains that in children, the most common route of spread is through blood and the most common site is the metaphysis of distal femur. Which of the following best describes the usual pathogenesis of osteomyelitis in children?",
+      "A 65-year-old man with controlled hypertension is planned for elective surgery. He is functionally active and has no limitation of daily activity. During pre-operative assessment, he is classified according to ASA physical status. Which class is most appropriate?",
     options: [
-      "Direct inoculation into epiphysis through open wound",
-      "Hematogenous spread to the metaphysis of distal femur",
-      "Lymphatic spread to the diaphysis of tibia",
-      "Contiguous spread to the acetabulum as the commonest route"
+      "ASA II",
+      "ASA III",
+      "ASA IV",
+      "ASA V"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Hematogenous spread to the metaphysis of distal femur"
+    answerIndex: 0,
+    correctAnswerText: "ASA II"
   },
-
   {
     id: 99,
     image: "",
     question:
-      "A postmenopausal woman with osteoporosis is started on a drug that inhibits the mevalonate pathway, thereby reducing ATP supply for osteoclastic bone resorption. Which of the following class of drugs is being described?",
+      "A 62-year-old man with coronary artery disease is planned for elective surgery. He is on clopidogrel after previous percutaneous coronary intervention. During pre-operative preparation, the anesthetist advises stopping clopidogrel before surgery. What is the usual recommended duration for stopping clopidogrel before elective surgery?",
     options: [
-      "SERMs",
-      "Calcitonin",
-      "Bisphosphonates",
-      "Teriparatide"
+      "3–5 days",
+      "7 days",
+      "12–24 hours",
+      "4–8 weeks"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Bisphosphonates"
+    answerIndex: 1,
+    correctAnswerText: "7 days"
   },
-
   {
     id: 100,
-    image: "images/IMG_3089.jpeg",
+    image: "",
     question:
-      "You were asked to assist in a surgical operation on a young patient to treat an ulcer in the first part of the duodenum. You would expect that the surgeon would approach the ulcer by doing an anterior abdominal wall incision in the following region:",
+      "A 30-year-old anxious woman is taken to the operating room for elective surgery. Before induction, she is given 100% oxygen while breathing spontaneously for 3 minutes. The anesthetist explains that this maneuver replaces alveolar nitrogen with oxygen and increases safe apnea time. Which technique is being performed?",
     options: [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Capnography",
+      "Controlled hypotension",
+      "Preoxygenation / Denitrogenation",
+      "Bispectral index monitoring"
     ],
-    answerIndex: 1,
-    correctAnswerText: "C"
-  },
-
+    answerIndex: 2,
+    correctAnswerText: "Preoxygenation / Denitrogenation"
+},
   {
     id: 101,
-    image: "images/IMG_3088.jpeg",
+    image: "",
     question:
-      "What type of synovial joints are represented by structures 1 and 2 in the image below, respectively?",
+      "A 28-year-old woman under general anesthesia has normal oxygen saturation on pulse oximetry initially. After intravenous administration of methylene blue dye, the pulse oximeter suddenly shows a marked fall in saturation, but the patient is clinically stable and arterial oxygenation is normal. Which factor is responsible for the maximum false low pulse oximeter reading?",
     options: [
-      "Ball and socket, Saddle joint",
-      "Hinge joint, Pivot joint",
-      "Saddle joint, Ball and socket joint",
-      "Hinge joint, Ball and socket joint"
+      "Dark skin",
+      "Bilirubin",
+      "Carbon monoxide poisoning",
+      "Methylene blue"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Saddle joint, Ball and socket joint"
+    answerIndex: 3,
+    correctAnswerText: "Methylene blue"
   },
-
   {
     id: 102,
-    image: "images/IMG_3086.jpeg",
+    image: "",
     question:
-      "Which of the following is a true statement regarding this structure?",
+      "During anesthesia, capnography shows a gradually rising end-tidal carbon dioxide value above 45 mmHg with a waveform that is not touching the baseline. The anesthetist suspects rebreathing. Which of the following is the most likely cause?",
     options: [
-      "It is made of elastic cartilage",
-      "It is supplied only by epiphyseal arteries",
-      "It separates epiphysis from diaphysis",
-      "It is the site for enchondral ossification"
+      "Exhausted carbon dioxide absorber",
+      "Pulmonary embolism",
+      "Esophageal intubation",
+      "Hyperventilation"
     ],
-    answerIndex: 3,
-    correctAnswerText: "It is the site for enchondral ossification"
+    answerIndex: 0,
+    correctAnswerText: "Exhausted carbon dioxide absorber"
   },
-
   {
     id: 103,
-    image: "images/IMG_3087.jpeg",
+    image: "",
     question:
-      "Which of the following muscles aids in forceful expulsion of air from the mouth?",
+      "A 24-year-old woman is posted for a short procedure requiring rapid loss of consciousness. The anesthetist chooses an intravenous induction agent that is a barbiturate, acts through gamma-aminobutyric acid-A receptor agonism, has ultrafast onset, but is avoided in acute intermittent porphyria. Which drug is being described?",
     options: [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Ketamine",
+      "Thiopentone",
+      "Sevoflurane",
+      "Midazolam"
     ],
-    answerIndex: 3,
-    correctAnswerText: "D"
+    answerIndex: 1,
+    correctAnswerText: "Thiopentone"
   },
-
   {
     id: 104,
-    image: "images/IMG_3085.jpeg",
+    image: "",
     question:
-      "Identify the functions of the muscles marked below",
+      "A 10-year-old child with bronchial asthma and hypotension is taken for emergency wound debridement. The anesthetist selects an induction agent that preserves respiration, causes bronchodilation, provides analgesia, and produces dissociative anesthesia. Which of the following is the most likely drug?",
     options: [
-      "A - Elevation and retraction of mandible B - Protrusion C - Elevation D - Elevation and side to side movements of mandible",
-      "A - Elevation B - Protrusion C - Elevation and side to side movements of mandible D - Elevation and retraction of mandible",
-      "A - Elevation and side to side movements of mandible B - Protrusion C - Elevation and retraction of mandible D - Elevation",
-      "A - Protrusion B - Elevation and retraction of mandible C - Elevation and side to side movements of mandible D - Elevation"
+      "Propofol",
+      "Thiopentone",
+      "Ketamine",
+      "Etomidate"
     ],
-    answerIndex: 0,
-    correctAnswerText: "A - Elevation and retraction of mandible B - Protrusion C - Elevation D - Elevation and side to side movements of mandible"
+    answerIndex: 2,
+    correctAnswerText: "Ketamine"
   },
-
   {
     id: 105,
-    image: "images/IMG_3084.jpeg",
+    image: "",
     question:
-      "Which ligament limits extension at the hip joint?",
+      "A 7-year-old child with bronchial asthma and painful burn wounds is posted for burn dressing under anesthesia. The child is mildly hypotensive, and the anesthetist wants an induction agent that provides analgesia, bronchodilation, and preserves airway reflexes. Which drug is most appropriate?",
     options: [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Thiopentone",
+      "Propofol",
+      "Etomidate",
+      "Ketamine"
     ],
-    answerIndex: 0,
-    correctAnswerText: "B"
+    answerIndex: 3,
+    correctAnswerText: "Ketamine"
   },
-
   {
     id: 106,
-    image: "images/IMG_3083.jpeg",
+    image: "",
     question:
-      "Which of the following bones forms the marked foramen?",
+      "A 68-year-old man with severe ischemic heart disease and aortic aneurysm is planned for emergency surgery. The anesthetist wants an induction agent that is cardio-stable with minimal change in cardiac output, blood pressure, and heart rate. Which drug is preferred?",
     options: [
-      "Temporal, Sphenoid and occipital bones",
-      "Temporal, Ethmoid and occipital bones",
-      "Temporal, Frontal and occipital bones",
-      "Temporal, Parietal and occipital bones"
+      "Etomidate",
+      "Propofol",
+      "Thiopentone",
+      "Ketamine"
     ],
     answerIndex: 0,
-    correctAnswerText: "Temporal, Sphenoid and occipital bones"
+    correctAnswerText: "Etomidate"
   },
-
   {
     id: 107,
-    image: "images/IMG_3082.jpeg",
+    image: "",
     question:
-      "The joint shown in the image is also known as:",
+      "A 45-year-old man is undergoing general anesthesia. After induction and bag–mask ventilation, a muscle relaxant is administered to make laryngoscopy easier and provide surgical immobility. Which of the following best describes the mechanism of action of non-depolarizing muscle relaxants?",
     options: [
-      "Syndesmosis",
-      "Peg and socket joint",
-      "Hinge joint",
-      "Pivot joint"
+      "Complete agonist at nicotinic acetylcholine receptor",
+      "Competitive antagonist at nicotinic acetylcholine receptor",
+      "Partial agonist at nicotinic acetylcholine receptor",
+      "Inhibition of acetylcholinesterase enzyme"
     ],
     answerIndex: 1,
-    correctAnswerText: "Peg and socket joint"
+    correctAnswerText: "Competitive antagonist at nicotinic acetylcholine receptor"
   },
-
   {
     id: 108,
-    image: "images/IMG_3081.jpeg",
+    image: "",
     question:
-      "What type of joint is involved in the deformity shown in the image?",
+      "A trauma patient with full stomach is planned for rapid sequence intubation. The anesthetist chooses succinylcholine because it has the fastest onset and shortest duration among neuromuscular blockers. Which enzyme metabolizes succinylcholine?",
     options: [
-      "Saddle joint",
-      "Ellipsoid joint",
-      "Pivot joint",
-      "Hinge joint"
+      "Acetylcholinesterase",
+      "Hepatic microsomal enzymes",
+      "Plasma cholinesterase",
+      "Monoamine oxidase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Ellipsoid joint"
+    answerIndex: 2,
+    correctAnswerText: "Plasma cholinesterase"
   },
-
   {
     id: 109,
-    image: "images/IMG_3080.jpeg",
+    image: "",
     question:
-      "A soldier developed “fallen arches” from marching with a heavy pack in boots that lacked arch support. The ligament that normally supports the head of the talus and is primarily responsible for holding up the medial longitudinal arch of the foot is the:",
+      "A 55-year-old patient with renal failure is planned for surgery under general anesthesia. The anesthetist wants to use a non-depolarizing muscle relaxant that is safe in both renal and hepatic failure because it undergoes organ-independent Hofmann elimination. Which of the following drugs is most appropriate?",
     options: [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Pancuronium",
+      "Vecuronium",
+      "Rocuronium",
+      "Cisatracurium"
     ],
-    answerIndex: 0,
-    correctAnswerText: "B"
+    answerIndex: 3,
+    correctAnswerText: "Cisatracurium"
   },
-
   {
     id: 110,
-    image: "images/IMG_3079.jpeg",
+    image: "",
     question:
-      "In an auto accident, the patient’s knee strikes the dashboard, which in turn pushes the head of the femur posteriorly out of its socket.\nWhich ligament is most likely ruptured by this posterior dislocation?",
+      "A 40-year-old man receives rocuronium during surgery. At the end of the procedure, rapid and specific reversal of neuromuscular blockade is required. Which drug is most appropriate?",
     options: [
-      "C",
-      "A",
-      "B",
-      "A & C"
+      "Sugammadex",
+      "Neostigmine",
+      "Edrophonium",
+      "Atropine"
     ],
-    answerIndex: 1,
-    correctAnswerText: "A"
+    answerIndex: 0,
+    correctAnswerText: "Sugammadex"
   },
-
   {
     id: 111,
-    image: "images/IMG_3078.jpeg",
+    image: "",
     question:
-      "What are the muscles attached to the marked area?",
+      "A 42-year-old patient receives a non-depolarizing muscle relaxant during surgery. At the end of surgery, neuromuscular monitoring is done using train-of-four stimulation. The fourth twitch is compared with the first twitch, and the ratio is found to be more than 0.9. What is the best interpretation?",
     options: [
-      "Buccinator, Temporalis, Masseter",
-      "Masseter, Temporalis, Two Pterygoids",
-      "Two Pterygoids, Temporalis, Buccinator",
-      "Lateral Pterygoid, Buccinator, Masseter"
+      "Intense neuromuscular block",
+      "Safe for extubation",
+      "Need immediate post-tetanic count",
+      "Indicates Phase II block only"
     ],
     answerIndex: 1,
-    correctAnswerText: "Masseter, Temporalis, Two Pterygoids"
+    correctAnswerText: "Safe for extubation"
   },
-
   {
     id: 112,
-    image: "images/IMG_3077.jpeg",
+    image: "",
     question:
-      "The given joint is functionally classified as:",
+      "A patient under general anesthesia has profound neuromuscular blockade. Train-of-four count is zero. The anesthetist gives tetanic stimulation for 5 seconds, waits for 3 seconds, and then applies single twitch stimulation. No twitch is seen. What does post-tetanic count of zero indicate?",
     options: [
-      "Diarthroses",
-      "Synarthroses",
-      "Amphiarthroses",
-      "Syndesmosis"
+      "Mild residual block",
+      "Adequate recovery for extubation",
+      "Intense neuromuscular block",
+      "Normal neuromuscular transmission"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Diarthroses"
+    answerIndex: 2,
+    correctAnswerText: "Intense neuromuscular block"
   },
-
   {
     id: 113,
-    image: "images/IMG_3076.jpeg",
+    image: "",
     question:
-      "Which compartment of TMJ (Temporomandibular joint) allows the following movements?",
+      "A 28-year-old patient is receiving inhalational anesthesia. The anesthetist explains that an agent with low blood–gas partition coefficient has poor solubility in blood and therefore produces faster induction and faster recovery. Which of the following inhalational agents has the fastest onset?",
     options: [
-      "Superior compartment",
-      "Medial compartment",
-      "Inferior compartment",
-      "Anterior compartment"
+      "Sevoflurane",
+      "Desflurane",
+      "Nitrous oxide",
+      "Xenon"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Inferior compartment"
+    answerIndex: 3,
+    correctAnswerText: "Xenon"
   },
-
   {
     id: 114,
-    image: "images/IMG_3075.jpeg",
+    image: "",
     question:
-      "What is the type of cartilage in the structure marked in the following image?",
+      "A 70-year-old man is undergoing surgery under inhalational anesthesia. The anesthetist notes that elderly age decreases the minimum alveolar concentration requirement, while young age increases it. At what age is MAC maximum?",
     options: [
-      "Fibrocartilage",
-      "Elastic cartilage",
-      "Calcified cartilage",
-      "Hyaline cartilage"
+      "6 months of age",
+      "6 years of age",
+      "18 years of age",
+      "70 years of age"
     ],
     answerIndex: 0,
-    correctAnswerText: "Fibrocartilage"
+    correctAnswerText: "6 months of age"
   },
-
   {
     id: 115,
-    image: "images/IMG_3074.jpeg",
+    image: "",
     question:
-      "The marked ligament shown below arises and runs along?",
+      "A 32-year-old woman is receiving oxygen, nitrous oxide, and a volatile anesthetic during induction. The anesthetist explains that rapid uptake of nitrous oxide from alveoli concentrates the simultaneously administered volatile agent, causing faster induction. Which phenomenon is being described?",
     options: [
-      "Anterior malleolar ligament",
-      "Stylomandibular ligament",
-      "Discomalleolar ligament",
-      "Temporomandibular ligament"
+      "Diffusion hypoxia",
+      "Second gas effect",
+      "Concentration effect",
+      "Meyer–Overton effect"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Discomalleolar ligament"
+    answerIndex: 1,
+    correctAnswerText: "Second gas effect"
   },
-
   {
     id: 116,
-    image: "images/IMG_3073.jpeg",
+    image: "",
     question:
-      "Which compartment and its content is correctly matched to the marked foramen?",
+      "A patient receives nitrous oxide during maintenance of anesthesia. During recovery, nitrous oxide rapidly diffuses from blood into alveoli, diluting alveolar oxygen and carbon dioxide. Which complication can occur if 100% oxygen is not given before the end of anesthesia?",
     options: [
-      "Anterior compartment — Inferior petrosal sinus",
-      "Posterior compartment — Accessory nerve",
-      "Intermediate compartment — Ascending pharyngeal artery",
-      "Anterior compartment — Vagus nerve"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Anterior compartment — Inferior petrosal sinus"
-  },
-
-  {
-    id: 117,
-    image: "images/IMG_3072.jpeg",
-    question:
-      "The type of joint marked in the image below is:",
-    options: [
-      "Synarthrosis",
-      "Syndesmosis",
-      "Synovial",
-      "Synchondrosis"
+      "Malignant hyperthermia",
+      "Halothane hepatitis",
+      "Diffusion hypoxia",
+      "Rebreathing of carbon dioxide"
     ],
     answerIndex: 2,
-    correctAnswerText: "Synovial"
+    correctAnswerText: "Diffusion hypoxia"
   },
-
+  {
+    id: 117,
+    image: "",
+    question:
+      "A 6-year-old child is planned for inhalational induction of anesthesia. The anesthetist chooses a sweet-smelling volatile agent that is considered the agent of choice for inhalational induction, especially in pediatric patients. Which of the following is the most appropriate agent?",
+    options: [
+      "Halothane",
+      "Isoflurane",
+      "Desflurane",
+      "Sevoflurane"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Sevoflurane"
+  },
   {
     id: 118,
-    image: "images/IMG_3094.jpeg",
+    image: "",
     question:
-      "Which of the following arteries passes through the foramen marked in the image below in a case of extradural hemorrhage?",
+      "A patient is connected to an anesthesia machine. Oxygen and nitrous oxide from cylinders pass through the high-pressure and intermediate-pressure systems before reaching the low-pressure system. Which component of the anesthesia machine is present in the low-pressure system near atmospheric pressure?",
     options: [
-      "Middle meningeal artery",
-      "Superficial temporal artery",
-      "Maxillary artery",
-      "Superficial petrosal artery"
+      "Vaporizer",
+      "Cylinder pressure gauge",
+      "Oxygen pressure-failure alarm",
+      "Pipeline inlet"
     ],
     answerIndex: 0,
-    correctAnswerText: "Middle meningeal artery"
+    correctAnswerText: "Vaporizer"
   },
-
   {
     id: 119,
     image: "",
     question:
-      "A 32-year-old man presents with loss of facial sensation over the lower jaw, weakness of muscles of mastication, and absent jaw jerk after a lesion at the skull base. Which foramen is most likely involved?",
+      "A new anesthesia technician accidentally tries to attach a nitrous oxide cylinder to the oxygen yoke of an anesthesia machine. The attachment fails because of a safety mechanism that prevents wrong cylinder attachment to the machine. Which safety system is responsible?",
     options: [
-      "Foramen rotundum",
-      "Superior orbital fissure",
-      "Foramen spinosum",
-      "Foramen ovale"
+      "Diameter index safety system",
+      "Pin index safety system",
+      "Oxygen failure alarm",
+      "Flowmeter arrangement"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Foramen ovale"
+    answerIndex: 1,
+    correctAnswerText: "Pin index safety system"
   },
-
   {
     id: 120,
     image: "",
     question:
-      "A 28-year-old man develops loss of corneal reflex (afferent limb intact over forehead), ptosis, diplopia, and ophthalmoplegia after a lesion in the middle cranial fossa. Which opening is most likely involved?",
+      "During pre-use check of an anesthesia machine, the resident is asked about the safest relative arrangement of flowmeters. To reduce the chance of delivering a hypoxic mixture, oxygen should be placed in which position in relation to other gases?",
     options: [
-      "Optic canal",
-      "Foramen rotundum",
-      "Superior orbital fissure",
-      "Foramen ovale"
+      "Most upstream of all gases",
+      "Between air and nitrous oxide",
+      "Most downstream of all gases, towards the patient",
+      "Position does not matter if colour coding is present"
     ],
     answerIndex: 2,
-    correctAnswerText: "Superior orbital fissure"
+    correctAnswerText: "Most downstream of all gases, towards the patient"
   },
-
   {
     id: 121,
     image: "",
     question:
-      "A patient has a lesion involving the mandibular division of trigeminal nerve distal to the trigeminal ganglion. He develops difficulty chewing and deviation of jaw to the affected side on opening the mouth. Which statement about this nerve is correct?",
+      "A 35-year-old adult patient is breathing spontaneously under anesthesia using a Mapleson circuit. The anesthetist selects the circuit of choice for spontaneously ventilating adults, where fresh gas flow required is equal to minute ventilation. Which circuit is most appropriate?",
     options: [
-      "It is purely sensory and exits through foramen rotundum",
-      "It carries postganglionic parasympathetic fibers but no motor fibers",
-      "It passes through superior orbital fissure and supplies lacrimal gland sensation",
-      "It is a mixed nerve that exits through foramen ovale"
+      "Mapleson D",
+      "Mapleson E",
+      "Mapleson F",
+      "Mapleson A"
     ],
     answerIndex: 3,
-    correctAnswerText: "It is a mixed nerve that exits through foramen ovale"
+    correctAnswerText: "Mapleson A"
   },
-
   {
     id: 122,
     image: "",
     question:
-      "A patient with a carotid triangle injury has weakness in depressing the hyoid after swallowing, but thyrohyoid muscle is spared. The damaged loop was formed by cervical roots in the neck. Which nerve structure is most likely involved?",
+      "A full-stomach patient develops coughing, choking, sudden desaturation, bronchospasm, cyanosis, and pink frothy secretions during induction of anesthesia. Chest X-ray later shows infiltrates predominantly in the right middle and right lower lung zones. Which complication is most likely?",
     options: [
-      "Hypoglossal nerve",
-      "Ansa cervicalis",
-      "Glossopharyngeal nerve",
-      "Recurrent laryngeal nerve"
+      "Mendelson’s syndrome",
+      "Malignant hyperthermia",
+      "Venous air embolism",
+      "Residual neuromuscular paralysis"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Ansa cervicalis"
+    answerIndex: 0,
+    correctAnswerText: "Mendelson’s syndrome"
   },
-
   {
     id: 123,
     image: "",
     question:
-      "A patient with unilateral vagus nerve palsy says “aaaah,” and the examiner notices deviation of the uvula. Which statement is correct?",
+      "A 38-year-old full-stomach patient is posted for emergency laparotomy. During pre-operative preparation, the anesthetist plans rapid sequence induction to minimize regurgitation and aspiration. Which of the following is one of the key steps in traditional rapid sequence induction?",
     options: [
-      "Uvula deviates toward the abnormal side because tensor veli palatini is weak",
-      "Uvula does not deviate because both sides contract equally",
-      "Uvula deviates toward the abnormal side because glossopharyngeus is paralyzed",
-      "Uvula deviates toward the normal side due to unopposed pull of the intact palate muscles"
+      "Routine bag and mask ventilation with high pressure",
+      "Cricoid pressure with cuffed endotracheal tube placement",
+      "Use of laryngeal mask airway as definitive airway",
+      "Extubation in light plane of anesthesia"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Uvula deviates toward the normal side due to unopposed pull of the intact palate muscles"
+    answerIndex: 1,
+    correctAnswerText: "Cricoid pressure with cuffed endotracheal tube placement"
   },
-
   {
     id: 124,
     image: "",
     question:
-      "A 14-year-old boy develops a scalp infection after a contaminated injury. A few days later, he presents with signs of intracranial spread of infection. Which layer of the scalp is called the dangerous layer because it contains emissary veins connecting extracranial veins with intracranial venous channels?",
+      "A patient under light anesthesia develops difficulty in ventilation with wheeze, increased peak airway pressure, and shark-fin appearance on capnography after exposure to a pungent inhalational agent. Which complication is most likely?",
     options: [
-      "Loose areolar tissue",
-      "Skin",
-      "Connective tissue",
-      "Aponeurotic layer"
+      "Laryngospasm",
+      "Residual paralysis",
+      "Bronchospasm",
+      "Diffusion hypoxia"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Loose areolar tissue"
+    answerIndex: 2,
+    correctAnswerText: "Bronchospasm"
   },
-
   {
     id: 125,
     image: "",
     question:
-      "A patient with facial nerve palsy is unable to wrinkle the forehead on the affected side and cannot produce the expression of surprise / horror / fright. Which muscle is most likely paralyzed?",
+      "A 22-year-old man undergoing surgery after administration of succinylcholine and volatile anesthetic suddenly develops abrupt rise in end-tidal carbon dioxide, tachycardia, hypertension, masseter spasm, generalized rigidity, hypoxia, mixed acidosis, and later hyperthermia. Which of the following is the drug of choice for treatment?",
     options: [
-      "Procerus",
-      "Corrugator supercilii",
-      "Orbicularis oculi",
-      "Frontalis"
+      "Verapamil",
+      "Sodium bicarbonate",
+      "Glucose-insulin infusion",
+      "Dantrolene"
     ],
     answerIndex: 3,
-    correctAnswerText: "Frontalis"
+    correctAnswerText: "Dantrolene"
   },
-
   {
     id: 126,
     image: "",
     question:
-      "A patient suffers a deep cut near the angle of the mouth, injuring a branch of the facial artery in its facial part. Which of the following is a branch of the facial artery in the face?",
+      "A patient undergoing posterior fossa surgery in sitting position suddenly develops hypoxia, abrupt fall in end-tidal carbon dioxide, hypotension, arrhythmia, and a “mill-wheel” murmur. The event is due to air entering open venous channels and reaching the right atrium and right ventricle. Which complication is most likely?",
     options: [
-      "Submental artery",
-      "Tonsillar artery",
-      "Ascending palatine artery",
-      "Superior labial artery"
+      "Venous air embolism",
+      "Bronchospasm",
+      "Malignant hyperthermia",
+      "Mendelson’s syndrome"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Superior labial artery"
+    answerIndex: 0,
+    correctAnswerText: "Venous air embolism"
   },
-
   {
     id: 127,
     image: "",
     question:
-      "A 38-year-old woman undergoes thyroidectomy for multinodular goiter. During ligation of the superior thyroid artery near the upper pole of the gland, the surgeon is particularly careful to avoid injury to a nearby nerve that would cause loss of high-pitched phonation. Which nerve is most closely related here?",
+      "During posterior fossa surgery in sitting position, a patient develops sudden fall in end-tidal carbon dioxide, hypoxia, hypotension, tachycardia, premature ventricular contractions, and a mill-wheel murmur. Transesophageal echocardiography confirms venous air embolism. Which of the following is the most sensitive invasive diagnostic modality for this condition?",
     options: [
-      "Recurrent laryngeal nerve",
-      "Internal laryngeal nerve",
-      "External laryngeal nerve",
-      "Hypoglossal nerve"
+      "Precordial Doppler",
+      "Transesophageal echocardiography",
+      "Chest X-ray",
+      "Pulse oximetry"
     ],
-    answerIndex: 2,
-    correctAnswerText: "External laryngeal nerve"
+    answerIndex: 1,
+    correctAnswerText: "Transesophageal echocardiography"
   },
-
   {
     id: 128,
     image: "",
     question:
-      "A 24-year-old man presents with recurrent sinusitis. Endoscopy shows blockage in the hiatus semilunaris of the middle meatus. As a result, drainage from the frontal sinus, anterior ethmoidal air cells, and maxillary sinus is impaired. Which meatus is involved?",
+      "A 58-year-old man with chronic obstructive pulmonary disease presents with worsening breathlessness, productive cough, fever, accessory muscle use, and oxygen saturation of 85% on room air. He is conscious and cooperative. Which initial oxygen therapy is most appropriate?",
     options: [
-      "Sphenoethmoidal recess",
-      "Superior meatus",
-      "Inferior meatus",
-      "Middle meatus"
+      "Immediate 100% oxygen through non-rebreathing mask in all cases",
+      "No oxygen until arterial blood gas report is available",
+      "Controlled oxygen using Venturi mask or low-flow nasal cannula targeting saturation above 90%",
+      "Immediate tracheostomy"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Middle meatus"
+    answerIndex: 2,
+    correctAnswerText:
+      "Controlled oxygen using Venturi mask or low-flow nasal cannula targeting saturation above 90%"
   },
-
   {
     id: 129,
     image: "",
     question:
-      "A 35-year-old woman has fixation of the stapes footplate causing conductive hearing loss. The stapes normally transmits vibrations to which structure on the medial wall of the middle ear?",
+      "A 58-year-old known case of chronic obstructive pulmonary disease is admitted with acute exacerbation. He is conscious, cooperative, tachypneic, and hypoxemic. The resident wants to choose an oxygen delivery device that provides precise control of inspired oxygen concentration and is ideal for chronic obstructive pulmonary disease patients. Which device is most appropriate?",
     options: [
-      "Round window",
-      "Tympanic membrane",
-      "Eustachian tube",
-      "Oval window"
+      "Nasal cannula",
+      "Simple face mask",
+      "Non-rebreather mask",
+      "Venturi mask"
     ],
     answerIndex: 3,
-    correctAnswerText: "Oval window"
+    correctAnswerText: "Venturi mask"
   },
-
   {
     id: 130,
     image: "",
     question:
-      "A patient is examined for a lesion involving the hard palate. Which statement about the hard palate is correct?",
+      "A patient with acute exacerbation of chronic obstructive pulmonary disease has worsening respiratory distress despite initial oxygen therapy. Arterial blood gas shows pH 7.28, PaCO₂ 70 mmHg, and PaO₂ 55 mmHg. He is shifted to non-invasive ventilation with bilevel positive airway pressure. Which of the following best explains how positive end-expiratory pressure improves oxygenation?",
     options: [
-      "It is formed entirely by palatine bones",
-      "Its anterior 3/4 is formed by maxilla and posterior 1/4 by palatine bone",
-      "It lies between palatoglossus and palatopharyngeus",
-      "It is formed by palatine aponeurosis and soft tissue only"
+      "It prevents alveolar collapse and improves functional residual capacity",
+      "It decreases functional residual capacity and reduces alveolar surface area",
+      "It increases venous return and increases cardiac output in all patients",
+      "It causes complete suppression of spontaneous respiration"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Its anterior 3/4 is formed by maxilla and posterior 1/4 by palatine bone"
+    answerIndex: 0,
+    correctAnswerText:
+      "It prevents alveolar collapse and improves functional residual capacity"
   },
-
   {
     id: 131,
     image: "",
     question:
-      "A 9-year-old child undergoes tonsillectomy for recurrent tonsillitis. During dissection, brisk bleeding occurs from the vessel that is classically considered the main arterial supply to the palatine tonsil and is a branch of the facial artery. Which artery is most likely injured?",
+      "A 62-year-old obese patient with acute exacerbation of chronic obstructive pulmonary disease has persistent hypercapnia and increased work of breathing. He is alert, cooperative, and able to protect his airway. Non-invasive ventilation is planned. Which of the following is the most appropriate indication for non-invasive ventilation in this patient?",
     options: [
-      "Tonsillar artery",
-      "Dorsalis linguae artery",
-      "Ascending pharyngeal artery",
-      "Descending palatine artery"
+      "Uncontrolled seizures",
+      "Acute hypercapnic exacerbation of chronic obstructive pulmonary disease",
+      "Massive hematemesis with recurrent vomiting",
+      "Severe facial trauma preventing mask fitting"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Tonsillar artery"
+    answerIndex: 1,
+    correctAnswerText:
+      "Acute hypercapnic exacerbation of chronic obstructive pulmonary disease"
   },
-
   {
     id: 132,
     image: "",
     question:
-      "A thyroid surgery patient develops stridor and inability to abduct the vocal cords. Laryngoscopy shows both cords failing to open during inspiration. Which muscle is the only abductor of the vocal cords?",
+      "A patient with worsening respiratory failure despite non-invasive ventilation develops respiratory fatigue and altered sensorium. He is intubated and started on invasive mechanical ventilation. The team uses a lung-protective strategy. Which initial ventilator setting is most appropriate?",
     options: [
-      "Lateral cricoarytenoid",
-      "Transverse arytenoid",
-      "Thyroarytenoid",
-      "Posterior cricoarytenoid"
+      "Tidal volume 12–15 mL/kg with zero positive end-expiratory pressure",
+      "FiO₂ kept permanently at 100% irrespective of oxygen saturation",
+      "Low tidal volume 6–8 mL/kg with positive end-expiratory pressure 5–15 cm H₂O",
+      "Extubation without spontaneous breathing trial once sensorium improves"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Posterior cricoarytenoid"
+    answerIndex: 2,
+    correctAnswerText:
+      "Low tidal volume 6–8 mL/kg with positive end-expiratory pressure 5–15 cm H₂O"
   },
-
   {
     id: 133,
     image: "",
     question:
-      "A mandibular fracture near the neck of mandible causes injury to a branch arising from the 1st part of maxillary artery, producing an epidural hematoma after rupture inside the cranial cavity. Which artery is involved?",
+      "A 70-year-old chronic obstructive pulmonary disease patient presents with severe dyspnea, respiratory rate 32/min, diaphoresis, and oxygen saturation of 85% on room air. He is alert and responsive, but arterial blood gas later shows worsening hypercapnia and hypoxemia despite oxygen therapy. Which of the following is the next appropriate step when non-invasive support fails with worsening sensorium?",
     options: [
-      "Deep auricular artery",
-      "Accessory meningeal artery",
-      "Middle meningeal artery",
-      "Inferior alveolar artery"
+      "Continue nasal cannula oxygen",
+      "Increase only bronchodilator frequency",
+      "Give only systemic corticosteroids",
+      "Perform endotracheal intubation and mechanical ventilation"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Middle meningeal artery"
+    answerIndex: 3,
+    correctAnswerText: "Perform endotracheal intubation and mechanical ventilation"
   },
-
   {
     id: 134,
     image: "",
     question:
-      "A patient with parotid swelling complains of pain over the angle of mandible and numbness of skin over the gland after dissection of the parotid fascia. Which nerve is most likely responsible for the sensory supply of the fascia and overlying skin?",
+      "A patient with chronic neuropathic pain is advised transcutaneous electrical nerve stimulation. The pain physician explains that stimulation of non-pain fibers activates inhibitory interneurons in the dorsal horn and reduces pain transmission. Which of the following fibers are mainly stimulated to close the pain gate?",
     options: [
-      "Facial nerve",
-      "Great auricular nerve",
-      "Glossopharyngeal nerve",
-      "Lingual nerve"
+      "A-beta fibers",
+      "C fibers",
+      "A-delta fibers",
+      "Postganglionic sympathetic fibers"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Great auricular nerve"
+    answerIndex: 0,
+    correctAnswerText: "A-beta fibers"
   },
-
   {
     id: 135,
     image: "",
     question:
-      "A 24-year-old boxer receives repeated blows over the lateral chest wall and later develops winging of scapula that becomes prominent during forward pushing against a wall. Which nerve is most likely injured?",
+      "A 58-year-old patient recovering from acute exacerbation of chronic obstructive pulmonary disease has improved after invasive mechanical ventilation. He is now conscious, hemodynamically stable, has good mental status, FiO₂ requirement is 0.35, and PEEP is 5 cm H₂O. Which of the following best indicates readiness for weaning from mechanical ventilation?",
     options: [
-      "Long thoracic nerve",
-      "Dorsal scapular nerve",
-      "Suprascapular nerve",
-      "Thoracodorsal nerve"
+      "Rapid Shallow Breathing Index more than 100",
+      "Rapid Shallow Breathing Index less than 100",
+      "Persistent need for high FiO₂ more than 0.6",
+      "Worsening respiratory fatigue after extubation"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Long thoracic nerve"
+    answerIndex: 1,
+    correctAnswerText: "Rapid Shallow Breathing Index less than 100"
   },
-
   {
     id: 136,
     image: "",
     question:
-      "A newborn delivered after difficult shoulder traction is unable to abduct the arm, laterally rotate the shoulder, and supinate the forearm. The upper limb is held in the classic “waiter’s tip / policeman tip” posture. Which part of the brachial plexus is most likely injured?",
+      "A 55-year-old man suddenly collapses in the hospital ward. He is unresponsive and has no normal breathing. High-quality cardiopulmonary resuscitation is initiated. According to basic life support sequence, which of the following is the correct initial approach?",
     options: [
-      "Posterior cord",
-      "Medial cord",
-      "Lower trunk",
-      "Upper trunk (C5, C6)"
+      "Airway → Breathing → Circulation",
+      "Breathing → Airway → Compression",
+      "Compression → Airway → Breathing",
+      "Defibrillation → Breathing → Airway"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Upper trunk (C5, C6)"
+    answerIndex: 2,
+    correctAnswerText: "Compression → Airway → Breathing"
   },
-
   {
     id: 137,
     image: "",
     question:
-      "A 34-year-old man develops inability to extend the thumb at the interphalangeal joint after a deep posterior forearm injury. Which muscle is most likely paralyzed?",
+      "A 6-month-old infant is found unresponsive at home by a single rescuer. The rescuer confirms absent breathing and no definite pulse within 10 seconds. No mobile phone is immediately available. What is the most appropriate next step?",
     options: [
-      "Abductor pollicis longus",
-      "Extensor pollicis brevis",
-      "Extensor pollicis longus",
-      "Extensor indicis"
+      "Leave immediately to activate emergency response system",
+      "Give only rescue breaths for 10 minutes",
+      "Wait until another rescuer arrives",
+      "Perform 2 minutes of CPR before leaving to activate emergency response system"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Extensor pollicis longus"
+    answerIndex: 3,
+    correctAnswerText:
+      "Perform 2 minutes of CPR before leaving to activate emergency response system"
   },
-
   {
     id: 138,
     image: "",
     question:
-      "A 52-year-old woman with advanced carcinoma breast has nipple retraction. Which mechanism best explains this finding?",
+      "A 45-year-old man collapses in the emergency department. Monitor shows pulseless ventricular tachycardia. Chest compressions are ongoing. Which of the following is the most appropriate shock strategy using a biphasic defibrillator?",
     options: [
-      "Obstruction of superficial lymphatics",
-      "Infiltration and fibrosis of lactiferous ducts",
-      "Infiltration of suspensory ligaments of Cooper",
-      "Metastasis to parasternal nodes"
+      "120–200 J shock",
+      "2–4 J/kg shock",
+      "360 J shock",
+      "Defibrillation is not useful in this rhythm"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Infiltration and fibrosis of lactiferous ducts"
+    answerIndex: 0,
+    correctAnswerText: "120–200 J shock"
   },
-
   {
     id: 139,
     image: "",
     question:
-      "A 40-year-old man is asked to hold a sheet of paper between his fingers and also between the thumb and index finger. He cannot adduct or abduct the fingers, and he shows weak thumb adduction due to paralysis of interossei and adductor pollicis. Which nerve is injured?",
+      "A 55-year-old man suddenly collapses in a public place. A bystander checks the scene safety, finds him unresponsive, shouts for help, activates the emergency response system, and gets an AED. The patient is not breathing normally and no definite pulse is felt within 10 seconds. What should be done next?",
     options: [
-      "Ulnar nerve",
-      "Median nerve",
-      "Radial nerve",
-      "Axillary nerve"
+      "Place the patient in recovery position",
+      "Start CPR immediately with chest compressions",
+      "Give rescue breathing only at 10 breaths/min",
+      "Wait until the emergency response team arrives"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Ulnar nerve"
+    answerIndex: 1,
+    correctAnswerText: "Start CPR immediately with chest compressions"
   },
-
   {
     id: 140,
     image: "",
     question:
-      "A patient undergoing upper abdominal surgery has a question raised about the opening in the central tendon of the diaphragm. Which structure passes through this opening?",
+      "A 62-year-old patient develops sudden cardiac arrest inside the ICU. CPR is started and oxygen is given. Monitor shows ventricular fibrillation. After the first shock, CPR is resumed for 2 minutes. Rhythm check again shows persistent shockable rhythm. Which drug should be given during the next CPR cycle according to ACLS protocol?",
     options: [
-      "Esophagus",
-      "Aorta",
-      "Thoracic duct",
-      "Inferior vena cava"
+      "Atropine",
+      "Sodium bicarbonate",
+      "Epinephrine",
+      "Verapamil"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Inferior vena cava"
+    answerIndex: 2,
+    correctAnswerText: "Epinephrine"
   },
-
   {
     id: 141,
     image: "",
     question:
-      "During thoracic surgery, the surgeon inspects the right lung hilum and identifies the highest structure at the hilum. Which structure is normally seen at the highest level on the right side?",
+      "A 48-year-old man is undergoing CPR for cardiac arrest. After 2 minutes of high-quality CPR, the rhythm remains pulseless. The team leader asks the junior resident to quickly recall the reversible causes of cardiac arrest and choose the correct route/drug principle during CPR. Which of the following is correct?",
     options: [
-      "Pulmonary artery",
-      "Superior pulmonary vein",
-      "Eparterial bronchus",
-      "Hyparterial bronchus"
+      "Endotracheal route is the most preferred route for all CPR drugs",
+      "Return of spontaneous circulation is suggested by fall in PETCO₂",
+      "Pediatric adrenaline dose is 1 mg IV bolus",
+      "IV adrenaline is given every 3–5 minutes during CPR"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Eparterial bronchus"
+    answerIndex: 3,
+    correctAnswerText: "IV adrenaline is given every 3–5 minutes during CPR"
   },
-
   {
     id: 142,
     image: "",
     question:
-      "A patient has hoarseness due to compression of the left recurrent laryngeal nerve by a vascular structure near the ligamentum arteriosum. This nerve loops around a derivative of which pharyngeal arch artery?",
+      "A 3-year-old child suddenly starts choking while eating peanuts. He is unable to speak or cough and becomes unresponsive. The caregiver brings the child to the emergency area. Which of the following is the most appropriate immediate step?",
     options: [
-      "Left 3rd arch artery",
-      "Left 4th arch artery",
-      "Right 4th arch artery",
-      "Left 6th arch artery"
+      "Call for help and start CPR",
+      "Encourage coughing and observe",
+      "Perform 5 back blows and 5 chest compressions",
+      "Give Heimlich maneuver only"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Left 4th arch artery"
+    answerIndex: 0,
+    correctAnswerText: "Call for help and start CPR"
   },
-
   {
     id: 143,
     image: "",
     question:
-      "A 24-year-old man is being evaluated for thoracic outlet symptoms due to compression at the root of the neck. The rib involved is described as the shortest, broadest, and most curved rib, with a single facet on the head, no costal groove, and a shaft that is flattened from above downward. Which rib is this?",
+      "A 32-year-old woman is planned for a minor surgical procedure under local anesthesia. The anesthetist explains that ester local anesthetics are more commonly associated with allergy and have shorter duration of action compared to amide local anesthetics. Which of the following statements is correct regarding local anesthetic pharmacology?",
     options: [
-      "First rib",
-      "Second rib",
-      "Tenth rib",
-      "Twelfth rib"
+      "Amide local anesthetics are metabolized by plasma cholinesterase",
+      "Ester local anesthetics are identified by one “i” and are metabolized by plasma cholinesterase",
+      "Amide local anesthetics have high allergic potential",
+      "Procaine is a long-acting local anesthetic"
     ],
-    answerIndex: 0,
-    correctAnswerText: "First rib"
+    answerIndex: 1,
+    correctAnswerText:
+      "Ester local anesthetics are identified by one “i” and are metabolized by plasma cholinesterase"
   },
-
   {
     id: 144,
     image: "",
     question:
-      "A 46,XY infant has female-type external genitalia, but imaging shows presence of epididymis, vas deferens, and seminal vesicles. Which factor was most likely absent during development?",
+      "A patient develops circumoral numbness, light-headedness, tinnitus, muscular twitching, and later generalized tonic-clonic seizures after accidental intravascular injection of a local anesthetic. ECG shows widening of QRS complex and prolonged PR interval. Which of the following is the drug of choice for severe cardiovascular toxicity due to local anesthetic systemic toxicity?",
     options: [
-      "Testosterone",
-      "Müllerian inhibiting substance",
-      "SRY gene",
-      "Dihydrotestosterone (DHT)"
+      "Intravenous lignocaine",
+      "20% intralipid emulsion",
+      "Verapamil",
+      "Calcium gluconate"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Dihydrotestosterone (DHT)"
+    answerIndex: 1,
+    correctAnswerText: "20% intralipid emulsion"
   },
-
   {
     id: 145,
     image: "",
     question:
-      "A 3-year-old child presents with intermittent feculent discharge from the umbilicus since birth. Imaging suggests persistence of the entire connection between ileum and umbilicus. Which anomaly is most likely present?",
+      "A 6-year-old child is scheduled for intravenous cannulation before a minor procedure. The anesthetist applies a topical anesthetic cream containing lignocaine and prilocaine before cannulation. Which of the following is a known important adverse effect of this preparation, especially in infants?",
     options: [
-      "Vitellointestinal fistula due to patent vitellointestinal duct",
-      "Meckel diverticulum",
-      "Vitellointestinal cyst",
-      "Umbilical sinus"
+      "Malignant hyperthermia",
+      "Severe hypotension due to thoracolumbar sympathectomy",
+      "Methemoglobinemia",
+      "Total spinal anesthesia"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Vitellointestinal fistula due to patent vitellointestinal duct"
+    answerIndex: 2,
+    correctAnswerText: "Methemoglobinemia"
   },
-
   {
     id: 146,
     image: "",
     question:
-      "A newborn has severe respiratory distress, characteristic flattened facies, limb deformities, and marked oligohydramnios on antenatal history. Ultrasound had shown bilateral renal agenesis. What is the most likely underlying sequence?",
+      "A 28-year-old pregnant woman develops nausea, pallor, dizziness, and hypotension soon after spinal anesthesia for cesarean section. The anesthetist immediately lowers the head end by 15 degrees, gives crystalloid bolus, and plans vasopressor therapy. Which vasopressor is preferred in pregnancy because it has the least risk of fetal acidosis?",
     options: [
-      "VACTERL association",
-      "Potter sequence due to renal agenesis causing oligohydramnios",
-      "CHARGE syndrome",
-      "Meckel syndrome"
+      "Adrenaline",
+      "Atropine",
+      "Ephedrine",
+      "Phenylephrine"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Potter sequence due to renal agenesis causing oligohydramnios"
+    answerIndex: 3,
+    correctAnswerText: "Phenylephrine"
   },
-
   {
     id: 147,
     image: "",
     question:
-      "During hysterectomy, the surgeon carefully ligates the uterine artery while avoiding injury to the structure passing just below it. Which relation is classically described here?",
+      "A 24-year-old female develops severe frontal–occipital headache 24 hours after spinal anesthesia. The headache worsens on sitting and standing, improves on lying down, and is associated with neck discomfort. Which of the following is the most important pathophysiology behind this condition?",
     options: [
-      "Uterine artery passes below the ureter",
-      "Ovarian artery passes below the ureter",
-      "Ureter passes below the uterine artery",
-      "Uterine tube passes below the uterine artery"
+      "Cerebrospinal fluid leak causing traction on meninges",
+      "Epidural opioid-induced central receptor activation",
+      "Staphylococcal infection from skin flora",
+      "Intrathecal local anesthetic-induced sympathetic blockade"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Ureter passes below the uterine artery"
+    answerIndex: 0,
+    correctAnswerText: "Cerebrospinal fluid leak causing traction on meninges"
   },
-
   {
     id: 148,
     image: "",
     question:
-      "A woman develops a third-degree perineal tear during childbirth. The obstetrician explains that damage to the perineal body is serious because many muscles converge here. Which of the following muscles is classically attached to the perineal body?",
+      "A 5-year-old child undergoing below-umbilical surgery is planned for postoperative analgesia using a caudal epidural block. The anesthetist identifies the sacral hiatus and performs the block. Which of the following statements regarding epidural and caudal epidural anesthesia is correct?",
     options: [
-      "Ischiocavernosus",
-      "Obturator internus",
-      "Piriformis",
-      "Bulbospongiosus"
+      "Epidural drug is deposited into the subarachnoid space",
+      "Epidural space can be identified by loss of resistance or hanging drop technique",
+      "Epidural anesthesia has rapid onset within 1–2 minutes",
+      "Caudal epidural is contraindicated in pediatric below-umbilical surgery"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Bulbospongiosus"
+    answerIndex: 1,
+    correctAnswerText:
+      "Epidural space can be identified by loss of resistance or hanging drop technique"
   },
-
   {
     id: 149,
     image: "",
     question:
-      "A 72-year-old man has benign enlargement of the prostate causing urinary obstruction. Imaging shows enlargement of the lobe that projects upward near the bladder neck and produces a postprostatic pouch of stagnant urine. Which part is most likely enlarged?",
+      "A 32-year-old pregnant woman is planned for regional anesthesia for lower abdominal surgery. The anesthetist explains that spinal anesthesia produces a rapid dense block, while epidural anesthesia allows catheter-based titration and is preferred for labour analgesia. Which of the following statements correctly differentiates spinal anesthesia from epidural anesthesia?",
     options: [
-      "Median (middle) lobe of prostate",
-      "Posterior lobe of prostate",
-      "Anterior fibromuscular stroma",
-      "Peripheral zone only"
+      "Spinal anesthesia is given outside dura, while epidural anesthesia is given into cerebrospinal fluid",
+      "Epidural anesthesia has faster onset than spinal anesthesia",
+      "Spinal anesthesia uses small volume drug in subarachnoid space, while epidural anesthesia uses larger volume drug outside dura",
+      "Differential nerve blockade is not possible with epidural anesthesia"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Median (middle) lobe of prostate"
+    answerIndex: 2,
+    correctAnswerText:
+      "Spinal anesthesia uses small volume drug in subarachnoid space, while epidural anesthesia uses larger volume drug outside dura"
   },
-
   {
     id: 150,
     image: "",
     question:
-      "A surgeon exploring the suprarenal region identifies a gland that is crescentic / semilunar and related anteriorly to the stomach superiorly and pancreas with splenic vessels inferiorly. Which gland is being described?",
+      "A 45-year-old patient is posted for short-duration hand surgery. The anesthetist considers either a brachial plexus block or intravenous regional anesthesia. Which of the following statements is correct regarding upper limb regional anesthesia?",
     options: [
-      "Right suprarenal gland",
-      "Left suprarenal gland",
-      "Right kidney",
-      "Left renal vein"
+      "Interscalene block is most commonly used for distal hand surgery",
+      "Axillary block has the highest risk of pneumothorax",
+      "Bupivacaine is the agent of choice for intravenous regional anesthesia",
+      "Supraclavicular block provides dense block of the upper limb but carries the highest risk of pneumothorax"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Left suprarenal gland"
+    answerIndex: 3,
+    correctAnswerText:
+      "Supraclavicular block provides dense block of the upper limb but carries the highest risk of pneumothorax"
   },
-
   {
     id: 151,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A hepatobiliary surgeon plans a segmental liver resection for a lesion located in the caudate lobe, which is known to have independent bilateral vascular supply and behaves as a separate functional unit. Which Couinaud segment is this?",
+      "A 2-month-old infant is brought with poor feeding, vomiting, failure to thrive, jaundice, and bilateral oil-drop cataracts. The child had symptoms after starting milk feeds. The biochemical pathway involved shows accumulation of galactose and galactitol due to an enzyme defect in galactose metabolism. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
-      "Segment II",
-      "Segment IVb",
-      "Segment I",
-      "Segment VI"
+      "Galactose-1-phosphate uridyl transferase",
+      "Galactokinase",
+      "UDP-galactose-4-epimerase",
+      "Lactase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Segment I"
+    answerIndex: 0,
+    correctAnswerText: "Galactose-1-phosphate uridyl transferase"
   },
-
   {
     id: 152,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A surgeon mobilizing the uncinate process during pancreatic surgery recalls that it lies in a very important vascular relation. Which statement is correct?",
+      "A 55-year-old man presents with sudden onset of severe pain, redness, and swelling of the great toe. He is diagnosed with acute gouty arthritis. His physician later starts a drug that is converted by xanthine oxidase into alloxanthine, which then irreversibly inhibits xanthine oxidase by suicide inhibition. Which of the following drugs acts by this mechanism?",
     options: [
-      "It lies posterior to the abdominal aorta only",
-      "It lies anterior to the portal vein and posterior to IVC",
-      "It lies lateral to splenic vessels and superior to left renal vein",
-      "It lies posterior to superior mesenteric vessels and anterior to the abdominal aorta"
+      "Probenecid",
+      "Allopurinol",
+      "Colchicine",
+      "Febuxostat"
     ],
-    answerIndex: 3,
-    correctAnswerText: "It lies posterior to superior mesenteric vessels and anterior to the abdominal aorta"
+    answerIndex: 1,
+    correctAnswerText: "Allopurinol"
   },
-
   {
     id: 153,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A 58-year-old man with a posterior gastric ulcer develops severe back pain. At surgery, the ulcer is found to be eroding a structure that forms the stomach bed and lies directly posterior to the stomach. Which of the following is a true component of the stomach bed?",
+      "A 2-year-old child is brought with generalized edema, skin lesions, depigmented sparse hair, anorexia, enlarged fatty liver, and low plasma albumin. The child’s calorie intake is relatively adequate, but protein intake is poor. Which of the following is the most likely diagnosis?",
     options: [
-      "Pancreas",
-      "Splenic vein",
-      "Left lobe of liver",
-      "Gallbladder"
+      "Marasmus",
+      "Scurvy",
+      "Kwashiorkor",
+      "Beriberi"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Pancreas"
+    answerIndex: 2,
+    correctAnswerText: "Kwashiorkor"
   },
-
   {
     id: 154,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "During a Pringle maneuver, the surgeon compresses the free right margin of the lesser omentum to control hepatic bleeding. Which structure lies in this margin and forms the anterior boundary of the epiploic foramen?",
+      "A 9-month-old infant is brought with arrested growth, severe muscle wasting, weakness, anemia, and very prominent ribs. On examination, there is loss of subcutaneous fat, but no edema. The child appears alert and irritable. Which of the following best describes this condition?",
     options: [
-      "Inferior vena cava",
-      "Portal triad in the hepatoduodenal ligament",
-      "Caudate lobe of liver",
-      "First part of duodenum"
+      "Protein deficiency with preserved subcutaneous fat",
+      "Vitamin B6 deficiency due to isolated protein lack",
+      "Protein deficiency with edema and fatty liver",
+      "Deficiency of both proteins and calories"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Portal triad in the hepatoduodenal ligament"
+    answerIndex: 3,
+    correctAnswerText: "Deficiency of both proteins and calories"
   },
-
   {
     id: 155,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A 64-year-old man has an abdominal aortic aneurysm just above its bifurcation. During surgery, the resident is asked at which vertebral level the abdominal aorta normally ends by dividing into right and left common iliac arteries. What is the correct answer?",
+      "A 52-year-old male has a history of bone pain and repeated fractures. He is suffering from chronic renal failure. On examination, the following abnormality is observed. A patient is likely to be suffering from deficiency of which of the following compound?",
     options: [
-      "L3",
-      "L5",
-      "L4",
-      "T12"
+      "Ascorbic acid",
+      "Retinoic acid",
+      "Folic acid",
+      "Calcitriol"
     ],
-    answerIndex: 2,
-    correctAnswerText: "L4"
+    answerIndex: 3,
+    correctAnswerText: "Calcitriol"
   },
-
   {
     id: 156,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A 35-year-old man undergoes surgery for varicocele. The surgeon isolates the spermatic cord within the inguinal canal. Which of the following is a normal content of the spermatic cord?",
+      "As shown in the image below, megaloblasts in a bone marrow smear are seen in which of the following vitamin deficiencies?",
     options: [
-      "Ilioinguinal nerve as a cord content",
-      "Round ligament of uterus",
-      "Ureter",
-      "Pampiniform plexus of veins"
+      "Vitamin B1",
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin B9"
     ],
     answerIndex: 3,
-    correctAnswerText: "Pampiniform plexus of veins"
+    correctAnswerText: "Vitamin B9"
   },
-
   {
     id: 157,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A cricketer presents after knee trauma with a positive anterior drawer test and positive Lachman test. Which ligament is most likely torn?",
+      "Following oral manifestation is seen in deficiency of which of the following vitamins?",
     options: [
-      "Anterior cruciate ligament (ACL)",
-      "Posterior cruciate ligament (PCL)",
-      "Meniscofemoral ligament of Humphrey",
-      "Meniscofemoral ligament of Wrisberg"
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin B9"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Anterior cruciate ligament (ACL)"
+    answerIndex: 1,
+    correctAnswerText: "Vitamin C"
   },
-
   {
     id: 158,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A patient with hip pathology complains mainly of pain in the knee despite minimal local knee findings. This is explained by referred pain due to shared nerve supply. Which statement is most appropriate?",
+      "A child is brought with progressive neurodevelopmental delay, low IQ, hepatosplenomegaly, and vertical gaze palsy. Microscopy shows foam cells, and electron microscopy finding is given below. The pathway involves degradation of sphingomyelin into its metabolite. Which enzyme deficiency is most likely responsible for this disorder?",
     options: [
-      "Knee pain excludes hip disease",
-      "Hip joint disease may present as referred pain in the knee",
-      "Referred pain from hip always goes to ankle",
-      "Knee joint and hip joint have completely different nerve supply"
+      "β-glucocerebrosidase",
+      "Hexosaminidase A",
+      "Sphingomyelinase",
+      "α-galactosidase A"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Hip joint disease may present as referred pain in the knee"
+    answerIndex: 2,
+    correctAnswerText: "Sphingomyelinase"
   },
-
   {
     id: 159,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A 42-year-old woman with varicose veins is planned for surgical harvesting of the great saphenous vein. While making an incision near the ankle, the surgeon is careful to avoid a nerve that accompanies this vein and runs anterior to the medial malleolus. Which nerve is most closely related to the great saphenous vein?",
+      "A 6-year-old boy presents with massive splenomegaly, hepatomegaly, anemia, thrombocytopenia, and multiple bruise marks over the body. Bone marrow biopsy is shown below. X-ray shows Erlenmeyer flask deformity of long bones. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
-      "Sural nerve",
-      "Superficial peroneal nerve",
-      "Saphenous nerve",
-      "Deep peroneal nerve"
+      "α-Galactosidase A",
+      "Sphingomyelinase",
+      "Hexosaminidase A",
+      "β-Glucocerebrosidase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Saphenous nerve"
+    answerIndex: 3,
+    correctAnswerText: "β-Glucocerebrosidase"
   },
-
   {
     id: 160,
-    image: "",
+    image: "images/IMG_3894.jpeg",
     question:
-      "A 35-year-old man with chronic standing-related foot pain is found to have weakness of the structures maintaining the lateral longitudinal arch. Which joint acts as the characteristic saddle joint of the lateral arch?",
+      "A patient presents with painful red tongue, cracks at the angle of mouth, and ocular complaints. Examination shows glossitis, cheilosis / angular stomatitis, and corneal neovascularization. Deficiency of which of the following vitamin is most likely responsible?",
     options: [
-      "Talonavicular joint",
-      "Calcaneocuboid joint",
-      "Subtalar joint",
-      "First tarsometatarsal joint"
+      "Vitamin B2",
+      "Vitamin B3",
+      "Vitamin B6",
+      "Vitamin B12"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Calcaneocuboid joint"
+    answerIndex: 0,
+    correctAnswerText: "Vitamin B2"
   },
-
   {
     id: 161,
-    image: "",
+    image: "images/IMG_4458.jpeg",
     question:
-      "A patient with posterior leg trauma cannot properly unlock the knee while starting flexion from full extension. Which muscle is most likely affected?",
+      "An infant presents with loss of motor skills, increased startle response to noise, seizures, hyperacusis, progressive neurodegeneration, and blindness. Fundus examination finding is given below. There is no hepatosplenomegaly. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
-      "Soleus",
-      "Gastrocnemius",
-      "Plantaris",
-      "Popliteus"
+      "Sphingomyelinase",
+      "Hexosaminidase A",
+      "β-Glucocerebrosidase",
+      "α-Galactosidase A"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Popliteus"
+    answerIndex: 1,
+    correctAnswerText: "Hexosaminidase A"
   },
-
   {
     id: 162,
-    image: "",
+    image: "images/IMG_4459.jpeg",
     question:
-      "A patient with a tibial nerve injury in the popliteal fossa cannot stand on tiptoes and has marked weakness of plantarflexion. Distal branches to the sole will also be affected. Which nerve is injured?",
+      "A child presents with perioral dermatitis, erythematous lesions around the buttocks and perineal region, recurrent diarrhea, poor growth, and irritability. The condition is due to defective intestinal absorption caused by ZIP-4 transporter deficiency. Deficiency of which of the following minerals is most likely responsible?",
     options: [
-      "Tibial nerve",
-      "Deep peroneal nerve",
-      "Superficial peroneal nerve",
-      "Common peroneal nerve"
+      "Copper",
+      "Selenium",
+      "Zinc",
+      "Iron"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Tibial nerve"
+    answerIndex: 2,
+    correctAnswerText: "Zinc"
   },
-
   {
     id: 163,
-    image: "",
+    image: "images/IMG_4460.jpeg",
     question:
-      "During dissection of the gluteal region, the surgeon identifies the sciatic nerve lying on a group of short lateral rotators. Which of the following is a component of the sciatic bed?",
+      "An infant presents with delayed eruption of teeth, reddish-brown discoloration of teeth, pink-stained diapers, and blisters over sun-exposed areas. Under ultraviolet light, the teeth show reddish fluorescence which is shown below. The condition is inherited as an autosomal recessive disorder. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
-      "Piriformis",
-      "Quadratus femoris",
-      "Gluteus medius",
-      "Gemellus superior only"
+      "Porphobilinogen deaminase",
+      "Ferrochelatase",
+      "ALA dehydratase",
+      "Uroporphyrinogen III synthase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Quadratus femoris"
+    answerIndex: 3,
+    correctAnswerText: "Uroporphyrinogen III synthase"
   },
-
   {
     id: 164,
-    image: "",
+    image: "images/IMG_4461.jpeg",
     question:
-      "During femoral vessel cannulation, the resident is asked which structure lies in the most medial compartment of the femoral sheath and is clinically important in femoral hernia. What is the correct answer?",
+      "An infant presents with milky white skin, white hair, and very light-colored irides. The child has defective melanin production due to deficiency of a copper-containing enzyme involved in tyrosine metabolism. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
-      "Femoral artery",
-      "Femoral vein",
-      "Femoral canal",
-      "Femoral nerve"
+      "Tyrosinase",
+      "Tyrosine hydroxylase",
+      "Phenylalanine hydroxylase",
+      "Homogentisate oxidase"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Femoral canal"
+    answerIndex: 0,
+    correctAnswerText: "Tyrosinase"
   },
-
   {
     id: 165,
-    image: "",
+    image: "images/IMG_4462.jpeg",
     question:
-      "A 45-year-old man presents with localized pain over the anterior chest wall near the sternum. The clinician recalls that most costosternal joints are plane synovial joints, except one which is a primary cartilaginous joint (synchondrosis). Which joint is this?",
+      "A patient presents with photosensitive dermatitis around the neck, forming a characteristic Casal’s necklace. He also has diarrhea, dementia, and glossitis. History reveals defective intestinal and renal tubular transport of neutral amino acids, causing tryptophan malabsorption. Deficiency of which of the following is most likely responsible for this condition?",
     options: [
-      "2nd costosternal joint",
-      "3rd costosternal joint",
-      "7th costosternal joint",
-      "1st costosternal joint"
+      "Tyrosine",
+      "Tryptophan",
+      "Phenylalanine",
+      "Methionine"
     ],
-    answerIndex: 3,
-    correctAnswerText: "1st costosternal joint"
+    answerIndex: 1,
+    correctAnswerText: "Tryptophan"
   },
-
   {
     id: 166,
-    image: "",
+    image: "images/IMG_4463.jpeg",
     question:
-      "A neurohistology specimen from the cerebral cortex shows six layers. The layer that contains the characteristic large pyramidal cells of motor cortex is:",
+      "A child presents with dry rough skin and multiple keratotic follicular papules over the thighs and upper arms as shown in the image. History reveals poor dietary intake and recurrent episodes of diarrhea. The child also complains of difficulty seeing in dim light.\nDeficiency of which of the following vitamins is most likely responsible?",
     options: [
-      "Internal pyramidal layer (Layer V)",
-      "External granular layer (Layer II)",
-      "Internal granular layer (Layer IV)",
-      "Multiform layer (Layer VI)"
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B12"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Internal pyramidal layer (Layer V)"
+    answerIndex: 2,
+    correctAnswerText: "Vitamin A"
   },
-
   {
     id: 167,
-    image: "",
+    image: "images/IMG_4464.jpeg",
     question:
-      "A pathology resident examines an islet of Langerhans and notes that the centrally placed cells, which form the majority of the islet, secrete a hormone important in lowering blood glucose. These cells are:",
+      "An infant presents with severe hypotonia, failure to thrive, hepatomegaly, and cardiomegaly. Muscle biopsy finding is given below which shows prominent vacuoles due to lysosomal accumulation of glycogen. The condition improves with recombinant enzyme therapy.\nWhich enzyme deficiency is most likely responsible?",
     options: [
-      "Alpha cells",
-      "Beta cells",
-      "Delta cells",
-      "Acinar cells"
+      "Glucose-6-phosphatase",
+      "Debranching enzyme",
+      "Muscle phosphorylase",
+      "Acid α-1,4-glucosidase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Beta cells"
+    answerIndex: 3,
+    correctAnswerText: "Acid α-1,4-glucosidase"
   },
-
   {
     id: 168,
-    image: "",
+    image: "images/IMG_4465.jpeg",
     question:
-      "A histology slide from the dorsum of tongue shows a large papilla surrounded by a trench-like cleft. Numerous taste buds are seen in the lateral wall of the cleft, and serous glands open into this area. Which papilla is being identified?",
+      "A 58-year-old man presents to the emergency department with sudden-onset severe chest pain, radiating to the left arm, associated with profuse sweating. ECG is given below and Serum enzyme analysis shows a flipped LDH ratio.\nWhich of the following serum findings is classically seen in this condition?",
     options: [
-      "Filiform papilla",
-      "Fungiform papilla",
-      "Circumvallate papilla",
-      "Foliate papilla"
+      "LDH-1 > LDH-2",
+      "LDH-2 > LDH-1",
+      "LDH-5 > LDH-4",
+      "LDH-3 > LDH-1"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Circumvallate papilla"
+    answerIndex: 0,
+    correctAnswerText: "LDH-1 > LDH-2"
   },
-
   {
     id: 169,
-    image: "",
+    image: "images/IMG_4466.jpeg",
     question:
-      "A pathologist examines a spindle-shaped muscle cell from a visceral organ. The cell is non-striated, involuntary, has a single central oval nucleus, and lacks intercalated discs. Which muscle type is being described?",
+      "A child presents with enlarged orange-yellow tonsils, recurrent peripheral neuropathy, muscle weakness, and early features of atherosclerosis. Blood investigations show markedly reduced levels of high-density lipoprotein. The image shows characteristic orange-colored enlarged tonsils due to accumulation of cholesterol esters in tissues.\nWhich of the following molecular defects is most likely responsible?",
     options: [
-      "Skeletal muscle",
-      "Cardiac muscle",
-      "Striated visceral muscle",
-      "Smooth muscle"
+      "Lecithin cholesterol acyltransferase deficiency",
+      "ATP-binding cassette transporter 1 deficiency",
+      "Low-density lipoprotein receptor deficiency",
+      "Apolipoprotein B-100 defect"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Smooth muscle"
+    answerIndex: 1,
+    correctAnswerText: "ATP-binding cassette transporter 1 deficiency"
   },
-
   {
     id: 170,
-    image: "",
+    image: "images/IMG_4467.jpeg",
     question:
-      "A specimen taken from the epiglottis shows cartilage with numerous fibers, preserved flexibility, and perichondrium present. Which type of cartilage is this?",
+      "A child with previously normal development presents with recurrent seizures, focal neurological deficits, and episodes resembling stroke. Blood lactate is elevated. Muscle biopsy with modified Gomori trichrome stain shows ragged red fibers.\nWhich of the following mitochondrial disorders is most likely?",
     options: [
-      "Elastic cartilage",
-      "Hyaline cartilage",
-      "Fibrocartilage",
-      "Calcified cartilage"
+      "MERRF syndrome",
+      "Kearns-Sayre syndrome",
+      "MELAS syndrome",
+      "Leigh syndrome"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Elastic cartilage"
+    answerIndex: 2,
+    correctAnswerText: "MELAS syndrome"
   },
-
   {
     id: 171,
-    image: "",
+    image: "images/IMG_4469.jpeg",
     question:
-      "A newborn is diagnosed with congenital adrenal insufficiency involving only the cortex, while the medulla is preserved. From which embryological source is the adrenal cortex derived?",
+      "A young male develops sudden onset malaise, weakness, abdominal pain, and lumbar pain after taking cotrimoxazole. After 2 days, he develops jaundice and dark-colored urine. Peripheral smear image is given which shows bite cells / degmacytes and blister cells.\nWhich enzyme deficiency is most likely responsible for this condition?",
     options: [
-      "Neural crest cells",
-      "Mesoderm",
-      "Surface ectoderm",
-      "Endoderm"
+      "Pyruvate kinase",
+      "Hexokinase",
+      "Glutathione reductase",
+      "Glucose-6-phosphate dehydrogenase"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Mesoderm"
+    answerIndex: 3,
+    correctAnswerText: "Glucose-6-phosphate dehydrogenase"
   },
-
   {
     id: 172,
-    image: "",
+    image: "images/IMG_4470.jpeg",
     question:
-      "A histology slide shows an ovarian follicle with a primary oocyte, surrounding granulosa cells, and the beginning of zona pellucida formation, but no well-developed antrum. Which follicular stage is this?",
+      "The given instrument is used in the identification of which of the following spaces?",
     options: [
-      "Primordial follicle",
-      "Secondary follicle",
-      "Primary follicle",
-      "Tertiary follicle"
+      "Ligamentum flavum",
+      "Subarachnoid space",
+      "Epidural space",
+      "Paravertebral space"
     ],
     answerIndex: 2,
-    correctAnswerText: "Primary follicle"
+    correctAnswerText: "Epidural space"
   },
-
   {
     id: 173,
-    image: "",
+    image: "images/IMG_4471.jpeg",
     question:
-      "A 58-year-old patient has loss of lacrimation and salivation after a pontine lesion involving a general visceral efferent (parasympathetic) nucleus. Which of the following nuclei is located in the pons and belongs to this column?",
+      "While administering oxygen to a patient, the following device is used as a variable flow administer of oxygen. These devices work on the principle of:",
     options: [
-      "Edinger–Westphal nucleus",
-      "Dorsal motor nucleus of vagus",
-      "Nucleus ambiguus",
-      "Superior salivatory nucleus"
+      "Venturi",
+      "Bernoulli’s",
+      "Coanda",
+      "All of the above"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Superior salivatory nucleus"
+    answerIndex: 0,
+    correctAnswerText: "Venturi"
   },
-
   {
     id: 174,
-    image: "",
+    image: "images/IMG_4472.jpeg",
     question:
-      "A coronal section through the cerebrum shows the roof of the lateral ventricle. Which structure forms the major roof of the central part of the lateral ventricle?",
+      "The given image shows a supraglottic airway device. According to the popular classification, what generation does this device belong to?",
     options: [
-      "Corpus callosum",
-      "Fornix",
-      "Thalamus",
-      "Septum pellucidum"
+      "First",
+      "Second",
+      "Blockbuster",
+      "Any of the above"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Corpus callosum"
+    answerIndex: 1,
+    correctAnswerText: "Second"
   },
-
   {
     id: 175,
-    image: "",
+    image: "images/IMG_4473.jpeg",
     question:
-      "A patient with a memory circuit lesion is found to have damage to a white matter tract carrying efferent fibers from the hippocampus to the mammillary body. Which tract is involved?",
+      "The given device operates on fluid mechanics and allows a flow rate in relation to its gauge. The given gauge will be:",
     options: [
-      "Mammillothalamic tract",
-      "Fornix",
-      "Stria terminalis",
-      "Internal capsule"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Fornix"
-  },
-
-  {
-    id: 176,
-    image: "",
-    question:
-      "A patient has lesions involving the posterior lobe of cerebellum and shows impaired fine, skilled, coordinated voluntary movement without major balance disturbance. Which functional division of cerebellum is predominantly affected?",
-    options: [
-      "Archicerebellum",
-      "Paleocerebellum",
-      "Neocerebellum",
-      "Flocculonodular lobe only"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Neocerebellum"
-  },
-
-  {
-    id: 177,
-    image: "",
-    question:
-      "A patient with neurosyphilis has difficulty maintaining posture when standing with feet together and tends to fall when the eyes are closed, but can compensate when the eyes are open. Which clinical sign is being demonstrated?",
-    options: [
-      "Babinski sign",
-      "Lhermitte sign",
-      "Kernig sign",
-      "Romberg sign"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Romberg sign"
-  },
-
-  {
-    id: 178,
-    image: "",
-    question:
-      "A surgeon performing mediastinal dissection in a patient lying supine wants to identify the level of the carina. In an adult in the supine position, the trachea typically bifurcates at:",
-    options: [
-      "T4",
-      "T3",
-      "T6",
-      "C6"
+      "20 G",
+      "22 G",
+      "18 G",
+      "26 G"
     ],
     answerIndex: 0,
-    correctAnswerText: "T4"
+    correctAnswerText: "20 G"
   },
-
   {
-    id: 179,
-    image: "",
+    id: 176,
+    image: "images/IMG_4474.jpeg",
     question:
-      "A patient with portal hypertension presents with hematemesis due to esophageal varices. Which venous channel forms the portal side of the portocaval anastomosis at the lower end of the esophagus?",
+      "The picture demonstrates neuromuscular monitoring during anaesthesia. Identify the peripheral nerve stimulated.",
     options: [
-      "Azygos vein",
-      "Left gastric vein",
-      "Inferior thyroid vein",
-      "Hemiazygos vein"
+      "Ulnar",
+      "Radial",
+      "Median",
+      "Axillary"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Ulnar"
+  },
+  {
+    id: 177,
+    image: "images/IMG_4475.jpeg",
+    question:
+      "Identify the given supraglottic airway device shown in the image.",
+    options: [
+      "Classic LMA",
+      "I-gel",
+      "Proseal",
+      "LMA Blockbuster"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Classic LMA"
+  },
+  {
+    id: 178,
+    image: "images/IMG_4477.jpeg",
+    question:
+      "Identify the given laryngoscope blade shown in the image.",
+    options: [
+      "Macintosh",
+      "Millers",
+      "Mccoy",
+      "B or C"
     ],
     answerIndex: 1,
-    correctAnswerText: "Left gastric vein"
+    correctAnswerText: "Millers"
   },
-
-{
-  id: 180,
-  image: "",
-  question:
-    "A patient with tracheal compression is being evaluated. Which statement about the trachea is correct?",
-  options: [
-    "The posterior gap between the C-shaped tracheal cartilages is bridged by trachealis muscle and fibroelastic tissue, allowing esophageal expansion during swallowing.",
-    "The trachea is supported by complete circular rings of elastic cartilage.",
-    "The trachea begins at T4 and ends at T6 in all individuals.",
-    "Its blood supply is mainly from the internal thoracic artery."
-  ],
-  answerIndex: 0,
-  correctAnswerText: "The posterior gap between the C-shaped tracheal cartilages is bridged by trachealis muscle and fibroelastic tissue, allowing esophageal expansion during swallowing."
-},
+  {
+    id: 179,
+    image: "images/IMG_4478.jpeg",
+    question:
+      "You are managing an elderly obese male with history of snoring, daytime somnolence, chronic obstructive pulmonary disease, and hypertension following transurethral resection of prostate surgery. The given mask is used for which of the following purposes?",
+    options: [
+      "Non invasive ventilation",
+      "Nebulisation",
+      "Simple Oxygenation",
+      "None of the Above"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Non invasive ventilation"
+  },
+  {
+    id: 180,
+    image: "images/IMG_4479.jpeg",
+    question:
+      "All of the following are indications for the use of the device shown in the image EXCEPT:",
+    options: [
+      "Ionotropic support",
+      "Poor intravenous access",
+      "Cardiac output monitoring",
+      "Total parenteral nutrition"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Cardiac output monitoring"
+  },
 
 ];
