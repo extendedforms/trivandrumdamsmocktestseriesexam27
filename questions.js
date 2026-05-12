@@ -2121,7 +2121,7 @@ window.questions = [
   },
   {
     id: 151,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4446.jpeg",
     question:
       "A 2-month-old infant is brought with poor feeding, vomiting, failure to thrive, jaundice, and bilateral oil-drop cataracts. The child had symptoms after starting milk feeds. The biochemical pathway involved shows accumulation of galactose and galactitol due to an enzyme defect in galactose metabolism. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
@@ -2135,7 +2135,7 @@ window.questions = [
   },
   {
     id: 152,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4447.jpeg",
     question:
       "A 55-year-old man presents with sudden onset of severe pain, redness, and swelling of the great toe. He is diagnosed with acute gouty arthritis. His physician later starts a drug that is converted by xanthine oxidase into alloxanthine, which then irreversibly inhibits xanthine oxidase by suicide inhibition. Which of the following drugs acts by this mechanism?",
     options: [
@@ -2149,7 +2149,7 @@ window.questions = [
   },
   {
     id: 153,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4448.jpeg",
     question:
       "A 2-year-old child is brought with generalized edema, skin lesions, depigmented sparse hair, anorexia, enlarged fatty liver, and low plasma albumin. The child’s calorie intake is relatively adequate, but protein intake is poor. Which of the following is the most likely diagnosis?",
     options: [
@@ -2163,7 +2163,7 @@ window.questions = [
   },
   {
     id: 154,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4449.jpeg",
     question:
       "A 9-month-old infant is brought with arrested growth, severe muscle wasting, weakness, anemia, and very prominent ribs. On examination, there is loss of subcutaneous fat, but no edema. The child appears alert and irritable. Which of the following best describes this condition?",
     options: [
@@ -2177,7 +2177,7 @@ window.questions = [
   },
   {
     id: 155,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4450.jpeg",
     question:
       "A 52-year-old male has a history of bone pain and repeated fractures. He is suffering from chronic renal failure. On examination, the following abnormality is observed. A patient is likely to be suffering from deficiency of which of the following compound?",
     options: [
@@ -2191,7 +2191,7 @@ window.questions = [
   },
   {
     id: 156,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4451.jpeg",
     question:
       "As shown in the image below, megaloblasts in a bone marrow smear are seen in which of the following vitamin deficiencies?",
     options: [
@@ -2205,7 +2205,7 @@ window.questions = [
   },
   {
     id: 157,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4452.jpeg",
     question:
       "Following oral manifestation is seen in deficiency of which of the following vitamins?",
     options: [
@@ -2219,7 +2219,7 @@ window.questions = [
   },
   {
     id: 158,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4453.jpeg",
     question:
       "A child is brought with progressive neurodevelopmental delay, low IQ, hepatosplenomegaly, and vertical gaze palsy. Microscopy shows foam cells, and electron microscopy finding is given below. The pathway involves degradation of sphingomyelin into its metabolite. Which enzyme deficiency is most likely responsible for this disorder?",
     options: [
@@ -2233,7 +2233,7 @@ window.questions = [
   },
   {
     id: 159,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4454.jpeg",
     question:
       "A 6-year-old boy presents with massive splenomegaly, hepatomegaly, anemia, thrombocytopenia, and multiple bruise marks over the body. Bone marrow biopsy is shown below. X-ray shows Erlenmeyer flask deformity of long bones. Which enzyme deficiency is most likely responsible for this condition?",
     options: [
@@ -2247,7 +2247,7 @@ window.questions = [
   },
   {
     id: 160,
-    image: "images/IMG_3894.jpeg",
+    image: "images/IMG_4456.jpeg",
     question:
       "A patient presents with painful red tongue, cracks at the angle of mouth, and ocular complaints. Examination shows glossitis, cheilosis / angular stomatitis, and corneal neovascularization. Deficiency of which of the following vitamin is most likely responsible?",
     options: [
