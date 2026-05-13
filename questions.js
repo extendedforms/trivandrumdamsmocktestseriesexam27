@@ -299,18 +299,18 @@ window.questions = [
     correctAnswerText: "Cardiolipin"
   },
   {
-    id: 22,
-    image: "",
-    question:
-      "A 1-year-old child presents with progressive neurodegeneration, exaggerated startle response, blindness, and a cherry-red spot on the macula. There is no hepatosplenomegaly. Enzyme assay shows deficiency of an enzyme required for degradation of GM₂ ganglioside.\nWhich of the following enzyme deficiencies is most likely responsible?",
-    options: [
-      "Sphingomyelinase",
-      "Beta-glucosidase",
-      "Hexosaminidase A",
-      "Alpha-galactosidase A"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Hexosaminidase A"
+  id: 22,
+  image: "",
+  question:
+    "A 12-year-old boy presents with burning pain in hands and feet, decreased sweating, and multiple dark-red skin lesions over the lower trunk. Urine examination shows proteinuria. The disorder is found to be X-linked and due to accumulation of globotriaosylceramide.\nWhich of the following enzyme deficiencies is most likely responsible?",
+  options: [
+    "Hexosaminidase A",
+    "Sphingomyelinase",
+    "Beta-glucosidase",
+    "Alpha-galactosidase A"
+  ],
+  answerIndex: 3,
+  correctAnswerText: "Alpha-galactosidase A"
   },
   {
     id: 23,
@@ -1804,18 +1804,18 @@ window.questions = [
       "Controlled oxygen using Venturi mask or low-flow nasal cannula targeting saturation above 90%"
   },
   {
-    id: 129,
-    image: "",
-    question:
-      "A 58-year-old known case of chronic obstructive pulmonary disease is admitted with acute exacerbation. He is conscious, cooperative, tachypneic, and hypoxemic. The resident wants to choose an oxygen delivery device that provides precise control of inspired oxygen concentration and is ideal for chronic obstructive pulmonary disease patients. Which device is most appropriate?",
-    options: [
-      "Nasal cannula",
-      "Simple face mask",
-      "Non-rebreather mask",
-      "Venturi mask"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Venturi mask"
+  id: 129,
+  image: "",
+  question:
+    "A 62-year-old man with chronic obstructive pulmonary disease exacerbation is initially started on controlled oxygen therapy. Despite oxygen supplementation, he develops persistent hypercapnia with respiratory acidosis. He is conscious, cooperative, and able to protect his airway. The anesthetist decides to start non-invasive ventilation using two different airway pressure levels. Which of the following modes is most appropriate?",
+  options: [
+    "BiPAP",
+    "CPAP",
+    "Non-rebreather mask",
+    "Simple face mask"
+  ],
+  answerIndex: 0,
+  correctAnswerText: "BiPAP"
   },
   {
     id: 130,
